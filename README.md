@@ -1,4 +1,4 @@
-# MC-Odyssey
+# MC Odyssey
 
 A 1.12 Kitchen Sink pack with over than 420 loaded mods, 300+ Quests and an emphasis on both entertaining (And rewarding) exploration and automation.
 
