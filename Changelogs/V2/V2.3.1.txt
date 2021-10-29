@@ -1,0 +1,33 @@
+Release V2.3.1:
+
+Additions:
++ Integrated Proxy by shBLOCK_
++ Integrated NBYT by scleox
++ Dynamistics by Eutropium
+
+
+Changes and fixes:
+
+= Added a new icon and title to the game.
+= Disabled the wither naturally spawning in dungeons, will be replaced with other mobs in later updates.
+= Hugely nerfed Everlasting abilities.
+= Completely disabled Draconium Ores.
+= Removed previously disabled ores from Environmental Tech
+= Changed name of 3X Processor to Advanced Ore Processor.
+= Fixed a JEI crash from shift-clicking a noteblock.
+= Modular Inscriber is now faster.
+= Nerfed Environmental Tech's creative flight.
+= Draconic dust is now generated instead of Draconium liquid which you'll need to process to create Draconium Ingots through a new modular machine.
+= Completely removed Avaritia singularities.
+= Disabled Unlimited Chisel Work's support for even more wood types.
+= Added a new machine for Tier 6 Seeds that requires a new type of crux.
+= Buffed the Wither boss.
+= VanillaFix will now send errors to your logs instead of annoying you with notifications.
+= Disabled Corail Tombstone's halloween event
+= Added a custom launcher that checks for ram.
+= Modular Machines now has support for crafting multiple items at once for a balanced amount of RF (I.E, if you insert 32 items, you'll get 32 outputs at 32x the cost of RF).
+= Added more items to sieving.
+= Changed custom starting gear.
+= Added a new Modular Machine to turn Tier 3 Choomburgers to energy (This is going too far).
+= Re-arranged scripts for better loading and debugging.
+= 3x Ore Processor now only processes ores > ingots instead of everything earlier. [Currently WIP though and won't work in game]

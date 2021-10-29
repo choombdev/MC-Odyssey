@@ -1,0 +1,24 @@
+V1.3:
++ Added LittleFrames by CreativeMD
++ Added ModTweaker by JaredIII08
++ Added Mtlib by JaredIII08
++ Updated Mods
+= Balanced MoneyMakingSchemes once more.
+= All rewards should now be team rewards.
+= Removed some mobs from Dungeon Mobs (Fallen Angel, Cockatrice, Vescavor) and disabled all of them from spawning naturally.
+= Fixed issue where Platinum and Iridium singularities weren't obtainable.
+= Fixed some MoneyMakingSchemes
+= Harvestcraft food no longer appears in dungeons.
+= Added more recipes and modified some end game recipes.
+= Optimized Recipe scripts
+= Added uses for unused items like Netherite, Ender Biotite and more.
+= NuclearCraft ores now require Aurorian Dirt to be sieved.
+= Removed Duplicate Enderium from Tinker's Construct
+= Disabled the Hammer
+= Ancient Debris is now obtainable through sifting Insanium Blocks.
+= Removed recipe where One Rotten Flesh equals one leather in a furnace.
+= Added more items to the shop.
+= Added more milestones for food.
+= Buffed some mobs from Ice and Fire
+= Fixed an issue where Compact Machines wasn't available.
+- Removed MoarTinkers

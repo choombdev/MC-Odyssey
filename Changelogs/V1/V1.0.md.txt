@@ -1,0 +1,8 @@
+
+
+Release Version 1.00!
+
+= Modified more configs.
+= Added rewards to the remaining quests.
+= Added more items to the game store.
+- Removed Dynamic Surrounding for causing issues with Animania.

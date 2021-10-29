@@ -1,0 +1,54 @@
+
+Release V2.0 (The Magic Update):
+
+ 
+
+Additions
+
++ Added Thaumcraft by Azanor13
++ Added Thaumic Inventory Scanning by BlayTheNinth
++ Added Thaumcraft 6 Aspects for JEI by zabi94
++ Added Thaumic JEI by Buuz135
++ Added Thaumic Energistics by nividica
++ Added Electroblob's Wizardry by ELectroblob
++ Added Electroblob's Wizardry: Twilight Forest Spell Pack by Electroblob
++ Added Blood Magic by WayofTime
++ Added Blood Arsenal by Arcaratus
++ Added Simple Storage Network by Lothrazar
++ Added Reliquary by P3pp3rF1y
++ Added Totemic by ljfa2
++ Added Roots by Noobanidus
++ Added Woot by lpsis
++ Added Deep Mob Learning by IterationFunk
+= Added more Quests for new mods.
+= Added a lot more custom recipes.
+= Added even more craftable creative items.
+= Added more items to the shop (Alongside an Akashic Tome if you lost yours).
+= Integrated new mods into old recipes.
+= Removed pickle tweaks hammer and added more plate recipes to other ingots.
+
+ 
+
+Fixes:
+= Made recipe for ProjectE much harder.
+= Removed EMC values for end game items.
+= Fixed Tinker Construct Tools being white.
+= Fixed issue where the Beneath Teleporter was missing and without a recipe.
+= Nerfed overpowered recipes being too easy.
+= Fixed server related crashes because of Forestry.
+= Fixed an issue where NetherEndingOres didn't actually spawn.
+= Fixed JustEnoughResources not showing most ores (This time for real).
+= Fixed issue where some quests' lootboxes didn't actually open. (If i missed any bugged ones, please DM me)
+= Disabled intro message from CFM.
+= Removed unobtainable pets from Collect All Pets quest.
+= Changed the Default Options
+= Added more books to the Akashic Tome
+= Changed Default new world items.
+= Cleaned up JER and JEI menus.
+= Fixed InventoryTweaks being missing.
+
+ 
+
+Removals:
+- Removed Atum temporarily for causing issues with servers, might get added in a future patch.
+- Removed BedrockBGone and replaced with COFH World config.

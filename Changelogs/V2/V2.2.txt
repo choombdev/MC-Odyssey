@@ -1,0 +1,29 @@
+         
+
+V2.2:
+
+Additions:
++ Bring Me The Rings by zabi94
++ MystGrad Cloche Compat by SenliePenguin
++ IE Cloche Compat by senilepenguin
++ Ender Mail by Chaosyr
++ EverlastingAbilities by kroeser
++ Added over 100 more quests.
+
+Changes:
+= Completely modified and re-did the entirety of ExNihilo's Sieve drops.
+= Modified Hammer Drops
+= Added more Heat sources to Ex Nihilo (i.e Uranium Blocks)
+= Changed maximum number of modifiers
+= Added more tips.
+= Disabled XP loss on death for conflicting with KeepInventory
+= re-enabled hammers once more.
+= Fixed an issue where Drying Rack took 500 minutes.
+= Fixed broken recipes.
+= Added more customized recipes.
+= Fixed Ding not being in the pack.
+
+Removals:
+- Removed Performant for causing issues with some clients.
+- Downgraded Simple Storage Networks to 1.8 for having bugs in the BETA versions.
+- Removed Tinkers Extras

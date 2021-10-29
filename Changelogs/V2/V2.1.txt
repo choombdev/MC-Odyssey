@@ -1,0 +1,47 @@
+Release V2.1:
+
+ 
+
+Additions:
++ Added Diet Hoppers
++ Added PackagedExCrafting by TheLMiffy1111
++ Added PackagedAvaritia by TheLMiffy1111
++ Added Thaumic Additions Reconstructed by Zeitheron
++ Added Thaumic Wonders by daedalus4096
++ Added Thaumic Augmentation by TheCodex6824
++ Added Thaumic Tinkerer by gaeakat
++ Added Thaumic Periphery by cadaverous_queen
++ Added ICBM Classic by QueenOfMissles
++ Added Gilby's Voice Chat Reloaded by Ivasik78
++ Added Performant by someaddon
++ Added Anvil Patch by Lumber_Wizard
++ Added Bed Patch by Mordenkainen3141
++ Added Dark Utilities by DarkHaxDev
++ Added Super Sound Muffler: Revived by Firstnecron
++ Added Mixin 0.7-0.8 Compatability by NotStirred
++ Added Sledgehammer by LX_Gaming
++ Added Tinkers Extras by MJRLegends
++ Updated alot of mods.
+
+ 
+
+Changed:
+= Fully Disabled Sorting in Quark
+= Disabled Duplicate ores from Immersive Engineering, Practical Logistics and Project Red
+= Slimes no longer can become Champions.
+= Thermal Expansion buffed, Ores now give three dust instead of one, Sawmill gives more wood and generators are slightly better.
+= Ingots from other mods now get transferred to a single ingot. |
+= Added more rewards.
+= Fixed broken rewards.
+= Buffed Lootcrates
+= Changed prices in shop alongside adding more items.
+= Actually disabled sledgehammer this time.
+= Official server gets added automatically to Serverlist now
+= Re-added JustEnoughResoureces as it got removed in release
+= Added more custom recipes to newer and older mods
+= Updated a couple of mods.
+= Modified some quests that either made no sense or were un-necessarily gated.
+= Fixed intro issue with latest update of CustomLoadingScreen
+= Insanium is now cheaper to obtain alongside Netherite as it was too hard before.
+= Broken tools no longer stay in your inventory after breaking
+= You can no longer fully repair tools by putting the material in the crafting grid next to it, it only fixes a portion of it

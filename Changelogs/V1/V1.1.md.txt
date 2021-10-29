@@ -1,0 +1,19 @@
+Release V1.1:
+
++ Added NuclearCraft ores to the moon (and only the moon).
++ Added even more tips.
++ Added Yet Another Recipe Conflict Fixer by SirOMGItsYou
+= Fixed issue where some ores didn't appear in Just Enough Resources
+= Changed some conflicting recipes.
+= Decreased spawn rate of Ancient Warfare 2 structures slightly.
+= Added recipes for elytras.
+= Fixed an issue where trapdoors weren't craftable.
+= Decreased number of drains required for the TC quest (yes, i heard you)
+= Singularities are now even harder to craft.
+= Fixed issues with some quest rewards and MoneyMakingSchemes being unrepeatable.
+= Food no longer takes an hour to eat.
+- Removed Iron Backpacks
+- Removed Duplicate Ores from Nuclear Craft
+- Removed Duplicate Ores from Bewitchment
+
+- Removed Dynamic Surrounding

@@ -1,0 +1,21 @@
+V1.2 (The Balancing Update):
++ Added JAOPCA (and addons) by TheLMiffy1111
++ Added Avaritia by brandon3055
++ Added Avaritia IO by tfarecnim
++ Added Bedrock B Gone by Karjah
++ Added Endergy by tterag1098
++ Added Tech reborn by modmuss50
+= Balanced the MoneySchemes items, things now get more rewarding when they're harder to obtain (Example, RF).
+= Added more items to the shop.
+= Added new items to MoneySchemes.
+= Fixed Singularities being unobtainable.
+= Added new recipes for Singularities, making them harder.
+= Changed recipes for all creative items.
+= Lowered chance of spider giving slowness from 100% to 30%.
+= Endermen no longer teleport you, their blindness also lasts a bit lower but they have a high chance of giving it to you.
+= Fixed an issue where JER doesn't show ores correctly in the nether.
+= Fixed an issue where the moon didn't have NuclearCraft ores.
+= Fixed an issue where shift-clicking wood planks would crash your game
+= Modified the main menu to make it better and add partnership.
+- Removed Binnie's More Trees
+- Removed RecipeMaker

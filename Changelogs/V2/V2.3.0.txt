@@ -1,0 +1,47 @@
+Additions:
++ Modular Machinery by HellFirePVP
++ Draconic Evolution by brandon3055
++ Draconic Additions by FoxMCloud5655
++ Integrated Terminals by kroeser
++ Integrated Crafting by kroeser
++ AlwaysEat by suppergerrie2
++ Oreberries by josephcsible
++ Entity Culling by meldexun
++ Particle Culling by bl4ckscor3
++ LazyAE2 by phantamanta44
++ FoodTweaker by Mrbysco
+
+
+Changes and Fixes:
+
+
+= Added Modular Machines [EXP Generator, Advanced Coke Furnace, Electric Water Heater, Super Electric Furnace, Ultimate Electric Furnace and more! (Posting a list on discord)].
+= You can now use biodiesel, biofuel, canola oil and oil in Advanced Generator Turbines.
+= You can now use different oils, enriched lava and pyrotheum in Advanced Generator Heat Exchanger
+= Re-added VanillaFix.
+= Withers and Ender Dragons will always spawn as champions.
+= Parasites no longer spawn as champions.
+= Fixed an issue with Tinker Construct's drying being backwards.
+= Changed extra bauble count to 5.
+= Added multiple new OreDictionaries (i.e Wings, Slings, Slime Boots)
+= Disabled Uncrafting tables.
+= Disabled ExCompressum's sieves.
+= Added more recipes to sieves.
+= Added a couple more quests, MoneyMakingSchemes and more.
+= Added more items to the shop.
+= Fixed some quests with broken dependencies.
+= Fixed some quests with broken requirements or rewards.
+= Added more rewards.
+= Fixed an issue where some mobs would spawn even if a Mega Torch was placed down.
+= Added more singularities alongside disabling Avaritia ones, you no longer require to use both ExtendedCrafting and Avaritia to create Ultimate Singularities.
+= Made more saplings smeltable.
+= Changed and added more recipes.
+= Updated Macaw's Trapdoors, ModTweaker, HammerLib, ImmersiveTechnology, LittleFrames, LittleTiles, AmbientSounds4 and Chunk Pregenerator
+= Although I just added the mod, reactor explosions are weaker, go ham.
+= Fixed an issue with Astral Starmetal having a duplicate from JAOPCA.
+= Removed Creative Spikes because of how broken they are.
+= Removed Duplicate recipes for Modular Powersuits
+= Added missing Thaumcraft crystals to Environmental Tech
+= Changed color for iron in Environmental Tech to silver
+= Fixed issue with Environmental Tech marble.
+= Re-arranged scripts better.
