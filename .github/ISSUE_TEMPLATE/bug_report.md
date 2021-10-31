@@ -29,6 +29,8 @@ If applicable, add screenshots to help explain your problem.
  - Amount of RAM Allocated
  - Java Version used.
 
-
+**Logs**
+Please provide your latest.log, debug.log and crash-report logs if applicable by hosting on either paste.gg, pastebin or any similar website.
+|
 **Additional context**
 Add any other context about the problem here.
