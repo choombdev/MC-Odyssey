@@ -1,0 +1,49 @@
+Additions:
++ Advent of Ascension by Scimiguy
++ Improvable Skills by Zeitheron
++ Emojiful by Buuz135
++ Visuals by Zeitheron
++ Aquaculture by Shadowclaimer
++ Updated a huge number of mods
++ Roguelike Dimensions by Greymerk
++ Bloodmoon by Lumien231
++ Vies Crafts by Vies
++ Magma Monsters by Kashdeya
++ Apotheosis
++ The Erebus by vadis365
++ Atum 2: Return to the Sands by Shadowclaimer
++ YUNG's Better Mineshafts (Forge) by YUNGNICKYOUNG
++ Save My Stronghold! (Forge) by YUNGNICKYOUNG
++ Config Checker
++ End: Reborn by elecatron
++ Stygian End by super_fluke
++ Advanced Chimenys by Ender_Lanky 
+Changes and Fixes:
+- Added a Space Exploration Questline
+- Added three new planets (The Erebus, the Atum and Draconium Hell)
+- Updated more quests.
+- Fixed Modular Machinery's stack issue again, should be fixed this time.
+- Modular Inscribers now don't require plates.
+- Fixed Mekanism Atomic Disassembler not dropping blocks.
+- Added Wizardry crystals to Environmental Tech miners
+- Changed even more recipes
+- Nano Beacons now require more RF to operate.
+- Removed more mobs from Champions
+- Downgraded Immersive Technology to fix Coke Furnace
+- Fixed Immersive Technology's Advanced Coke Furnace
+- Added more food to SoL High Carrot, you can now level your health up more!
+- Nerfed specific Inventory Pets for being too OP.
+- Added more ores to Ore miners.
+- Fixed an issue with the Discord Integration.
+- Disabled Creative Strongboxes
+- Disabled ability to trade for hearty meals.
+- Finally addressed the main menu not feeling complete + some buttons no appearing on some devices.
+- Fixed an issue with NuclearCraft ores not actually spawning in the moon.
+- Removed Draconium Ore from Industrial Foregoing's ore miner.
+- Added more quests to the Magic section as requested on discord.
+- Added the Exploration questline.
+- Buffed NuclearCraft's reactors 
+Removals:
+- Tool Progression
+- Reskillable
+- Pillar 
