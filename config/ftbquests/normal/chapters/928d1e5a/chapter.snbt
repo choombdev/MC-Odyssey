@@ -1,8 +1,0 @@
-{
-	title: "Money Making Schemes",
-	icon: "thermalfoundation:coin 1 1",
-	disable_toast: true,
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

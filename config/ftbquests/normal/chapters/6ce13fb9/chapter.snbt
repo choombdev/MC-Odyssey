@@ -1,7 +1,0 @@
-{
-	title: "Space Discovery",
-	icon: "minecraft:firework_charge",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

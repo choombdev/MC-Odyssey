@@ -1,7 +1,0 @@
-{
-	title: "Storage",
-	icon: "minecraft:chest",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

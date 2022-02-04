@@ -1,7 +1,0 @@
-{
-	title: "Dimensions and Transportation",
-	icon: "portality:controller",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

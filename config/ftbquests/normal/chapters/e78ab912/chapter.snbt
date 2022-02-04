@@ -1,7 +1,0 @@
-{
-	title: "Magic and Similar",
-	icon: "minecraft:enchanting_table",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

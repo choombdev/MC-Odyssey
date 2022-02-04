@@ -1,7 +1,0 @@
-{
-	title: "The End of your Odyssey",
-	icon: "minecraft:nether_star",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}
