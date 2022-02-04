@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -8.5d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "0efe653c",
+		type: "item",
+		items: [{
+			item: "extrautils2:compressedgravel 1 1"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "08a54217",
+		type: "ftbmoney:money",
+		ftb_money: 3L
+	}]
+}

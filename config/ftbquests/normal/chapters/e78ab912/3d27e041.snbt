@@ -1,0 +1,27 @@
+{
+	x: -18.5d,
+	y: 5.5d,
+	text: [
+		"Bonus LP!"
+	],
+	dependencies: [
+		"98fb3221"
+	],
+	tasks: [{
+		uid: "792caff2",
+		type: "item",
+		items: [{
+			item: "bloodmagic:incense_altar"
+		}]
+	}],
+	rewards: [{
+		uid: "2a7b26e0",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "61f7c13b",
+		type: "loot",
+		table: 1
+	}]
+}

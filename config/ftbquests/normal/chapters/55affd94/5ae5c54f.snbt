@@ -1,0 +1,28 @@
+{
+	title: "Beginner Power Generation",
+	x: -3.5d,
+	y: -1.5d,
+	text: [
+		"At first, you'll need to generate power from coal, wood or similar.",
+		"",
+		"You'll either use the Steam Dynamo or any sort of combustion generator."
+	],
+	tasks: [{
+		uid: "e960441d",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "9897538c",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -2.5d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "d8bbdee2",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 1 4"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "df57f661",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	}]
+}

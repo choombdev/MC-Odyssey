@@ -1,0 +1,49 @@
+{
+	title: "Ultimate Flux Storage",
+	x: -5.5d,
+	y: 8.0d,
+	text: [
+		"You'll need stronger Flux Storage if you plan on carrying all that flux."
+	],
+	dependencies: [
+		"6b570392",
+		"11bd2d8a"
+	],
+	tasks: [{
+		uid: "413ff9c4",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 4s
+		}]
+	},
+	{
+		uid: "0fd0e25c",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "933121cf",
+		type: "ftbmoney:money",
+		ftb_money: 7500L
+	},
+	{
+		uid: "d2c5e208",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "dae68ce4",
+		type: "loot",
+		table: 0
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	title: "Ender Transportation",
+	x: 3.0d,
+	y: 1.0d,
+	text: [
+		"The fastest available transportation conduits in EnderIO are the Ender conduits, you're also able to apply filters to them."
+	],
+	dependencies: [
+		"c5646449"
+	],
+	tasks: [{
+		uid: "4ee5ca1f",
+		type: "item",
+		items: [{
+			item: "enderio:item_liquid_conduit 1 2"
+		}]
+	},
+	{
+		uid: "47ec68a6",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit 1 2"
+		}]
+	},
+	{
+		uid: "7c7a312d",
+		type: "item",
+		items: [{
+			item: "enderio:item_gas_conduit 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "2fc46657",
+		type: "ftbmoney:money",
+		ftb_money: 700L
+	},
+	{
+		uid: "a04dd113",
+		type: "loot",
+		table: 1
+	}]
+}

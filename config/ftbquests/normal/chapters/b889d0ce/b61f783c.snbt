@@ -1,0 +1,27 @@
+{
+	x: -38.5d,
+	y: 6.0d,
+	dependencies: [
+		"a6b4a34d"
+	],
+	tasks: [{
+		uid: "b569469b",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "osgloglas"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f2b3721b",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	},
+	{
+		uid: "48994a67",
+		type: "loot",
+		table: 0
+	}]
+}

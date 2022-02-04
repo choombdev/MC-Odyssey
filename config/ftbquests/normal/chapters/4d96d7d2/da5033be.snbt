@@ -1,0 +1,21 @@
+{
+	x: -6.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "d9e690a1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "danknull:dank_null_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "90861b15",
+		type: "loot",
+		table: 1
+	}]
+}

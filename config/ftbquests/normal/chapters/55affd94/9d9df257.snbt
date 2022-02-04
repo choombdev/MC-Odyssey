@@ -1,0 +1,27 @@
+{
+	x: -8.5d,
+	y: 4.5d,
+	text: [
+		"Want to milk your moogma cows for lava? or, well,  just milk some cows? Use this!"
+	],
+	dependencies: [
+		"0cb5a093"
+	],
+	tasks: [{
+		uid: "d61b1fb9",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:animal_resource_harvester"
+		}]
+	}],
+	rewards: [{
+		uid: "d2ff086e",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "57fcd4c9",
+		type: "loot",
+		table: 1
+	}]
+}

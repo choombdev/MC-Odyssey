@@ -1,0 +1,24 @@
+{
+	x: -15.0d,
+	y: -6.5d,
+	dependencies: [
+		"dfe21733"
+	],
+	tasks: [{
+		uid: "e107cbac",
+		type: "item",
+		items: [{
+			item: "rats:confit_byaldi"
+		}]
+	}],
+	rewards: [{
+		uid: "76e280c9",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "e14e18f1",
+		type: "loot",
+		table: 0
+	}]
+}

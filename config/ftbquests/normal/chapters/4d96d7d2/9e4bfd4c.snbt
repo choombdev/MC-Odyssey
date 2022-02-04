@@ -1,0 +1,30 @@
+{
+	title: "Storage Drawers",
+	x: -8.0d,
+	y: -3.0d,
+	text: [
+		"For bulk storage, you could either use Storage Drawers or YABBA Barrels."
+	],
+	tasks: [{
+		uid: "baed9418",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}]
+	},
+	{
+		uid: "619178e3",
+		type: "item",
+		items: [{
+			item: "storagedrawers:controller"
+		}]
+	}],
+	rewards: [{
+		uid: "f706854d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

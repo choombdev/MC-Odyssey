@@ -1,0 +1,29 @@
+{
+	x: -33.5d,
+	y: 4.0d,
+	text: [
+		"Potion of Fission duplicates mobs but is also used alongside a burning heart to craft a bottle of MOOten lava which you'll definitely need to create MOOgma cows."
+	],
+	tasks: [{
+		uid: "6a7ee552",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:fissionpotion"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e2b8fc4d",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "82820034",
+		type: "loot",
+		table: 0
+	}]
+}

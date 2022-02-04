@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -7.5d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "85716251",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "17d5f279",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

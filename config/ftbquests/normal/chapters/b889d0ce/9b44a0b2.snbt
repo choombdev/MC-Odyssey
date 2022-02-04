@@ -1,0 +1,28 @@
+{
+	x: -34.5d,
+	y: -4.0d,
+	text: [
+		"Same as the Bonsai Pot but now it can output automatically to chests!"
+	],
+	dependencies: [
+		"64969e75"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "2243cd0e",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "551cacbb",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "953fcc76",
+		type: "loot",
+		table: 1
+	}]
+}

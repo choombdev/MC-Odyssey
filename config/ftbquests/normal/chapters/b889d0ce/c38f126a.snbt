@@ -1,0 +1,23 @@
+{
+	x: -31.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f7aae91e",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_sieve"
+		}]
+	},
+	{
+		uid: "37102b1e",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "903e8788",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

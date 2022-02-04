@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: -2.5d,
+	size: 2.0d,
+	tasks: [{
+		uid: "747ea520",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonbone"
+		}]
+	}],
+	rewards: [{
+		uid: "183df855",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "b92e7b15",
+		type: "loot",
+		table: 1
+	}]
+}

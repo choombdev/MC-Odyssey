@@ -1,0 +1,25 @@
+{
+	title: "Chunky Cheese Tokens",
+	x: -4.0d,
+	y: -1.0d,
+	text: [
+		"Use a Chunky Cheese Token to enter Ratlantis."
+	],
+	tasks: [{
+		uid: "dd180839",
+		type: "item",
+		items: [{
+			item: "rats:chunky_cheese_token"
+		}]
+	}],
+	rewards: [{
+		uid: "8c716b6e",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	},
+	{
+		uid: "8b094c96",
+		type: "loot",
+		table: 1
+	}]
+}

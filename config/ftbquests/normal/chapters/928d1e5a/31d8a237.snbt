@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: -14.5d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "c4453478",
+		type: "forge_energy",
+		value: 100000L
+	}],
+	rewards: [{
+		uid: "a8870a17",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

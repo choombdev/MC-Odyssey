@@ -1,0 +1,59 @@
+{
+	title: "Adding Sauce to Mom's Spaghetti",
+	x: -29.0d,
+	y: 3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"39da4284"
+	],
+	tasks: [{
+		uid: "6eeae2d6",
+		type: "item",
+		items: [{
+			item: "minecraft:beetroot_soup"
+		}]
+	},
+	{
+		uid: "713da9f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:moms_spaghetti",
+			tag: {
+				Stats: {
+					AttackSpeedMultiplier: 0.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 0,
+					Durability: 0,
+					HarvestLevel: 0,
+					Attack: 0.0f
+				},
+				TinkerData: {
+					Modifiers: [
+						"spaghetti_sauce"
+					]
+				},
+				Modifiers: [{
+					identifier: "spaghetti_sauce",
+					color: 10964308
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d7aa9d7f",
+		type: "ftbmoney:money",
+		ftb_money: 900L
+	},
+	{
+		uid: "c97c7d0d",
+		type: "loot",
+		table: 0
+	}]
+}

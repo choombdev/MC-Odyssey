@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "7178167c",
+		type: "kill",
+		icon: "mowziesmobs:naga_fang",
+		entity: "mowziesmobs:naga",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d2b019ce",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	},
+	{
+		uid: "57c0ab3f",
+		type: "loot",
+		table: 0
+	}]
+}

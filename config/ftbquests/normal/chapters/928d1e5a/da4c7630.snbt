@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "247c03b2",
+		type: "fluid",
+		fluid: "steam"
+	}],
+	rewards: [{
+		uid: "486a6611",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

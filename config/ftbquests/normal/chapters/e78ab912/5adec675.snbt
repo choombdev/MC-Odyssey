@@ -1,0 +1,27 @@
+{
+	x: -14.0d,
+	y: -1.5d,
+	text: [
+		"After learning Constellations from scrolls, you'll need to find them and draw them using the looking glass."
+	],
+	dependencies: [
+		"5884ad18"
+	],
+	tasks: [{
+		uid: "508357f0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemhandtelescope"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "491e5864",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mod_lavacow:dreamcatcher"
+	},
+	x: -6.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "14a247c3",
+		type: "kill",
+		entity: "mod_lavacow:ithaqua",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "641ddcf3",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "a174fcbd",
+		type: "loot",
+		table: 0
+	}]
+}

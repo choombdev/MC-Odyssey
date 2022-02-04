@@ -1,0 +1,28 @@
+{
+	title: "Ultimate Tier",
+	x: -8.0d,
+	y: -0.5d,
+	text: [
+		"The best tier of GP generation is using a dragon egg and a dragon mill."
+	],
+	dependencies: [
+		"4b3d40ac"
+	],
+	tasks: [{
+		uid: "fff386db",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "572f7167",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	},
+	{
+		uid: "a5d1d077",
+		type: "loot",
+		table: 0
+	}]
+}

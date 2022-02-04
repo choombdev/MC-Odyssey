@@ -1,0 +1,43 @@
+{
+	title: "Project Red Storage",
+	x: -8.0d,
+	y: -4.5d,
+	text: [
+		"Project Red storage isn't easily explained, you'll need to find a tutorial online but it'll for sure be worth it."
+	],
+	tasks: [{
+		uid: "3c4f5389",
+		type: "item",
+		items: [{
+			item: "projectred-transportation:pipe"
+		}]
+	},
+	{
+		uid: "24c4d411",
+		type: "item",
+		items: [{
+			item: "projectred-transportation:pipe 1 3"
+		}]
+	},
+	{
+		uid: "54b15e7d",
+		type: "item",
+		items: [{
+			item: "projectred-transportation:pipe 1 1"
+		}]
+	},
+	{
+		uid: "083762f5",
+		type: "item",
+		items: [{
+			item: "projectred-transportation:routing_chip 1 4"
+		}]
+	},
+	{
+		uid: "be3dda63",
+		type: "item",
+		items: [{
+			item: "projectred-transportation:routing_chip 1 5"
+		}]
+	}]
+}

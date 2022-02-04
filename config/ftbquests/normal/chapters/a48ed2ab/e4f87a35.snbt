@@ -1,0 +1,59 @@
+{
+	title: "Deuterium",
+	x: -4.5d,
+	y: 6.0d,
+	text: [
+		"To create Deuterium (Needed also for the Reactor), you'll need to create Heavy Water (A pump with a FIlter) then run the water in an Electrolytic Separator.",
+		"",
+		"Doing so will give you Deuterium."
+	],
+	dependencies: [
+		"0c25a5bb"
+	],
+	tasks: [{
+		uid: "37d7acb6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:filterupgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "db6eeb65",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			Damage: 12s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6b94118b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock2",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9b8f3313",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "fa49bf2a",
+		type: "loot",
+		table: 0
+	}]
+}

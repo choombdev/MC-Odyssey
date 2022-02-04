@@ -1,0 +1,30 @@
+{
+	x: -25.5d,
+	y: 0.0d,
+	dependencies: [
+		"de335f2a"
+	],
+	tasks: [{
+		uid: "c6444de1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9e10cbe2",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	},
+	{
+		uid: "e3e28c92",
+		type: "loot",
+		table: 0
+	}]
+}

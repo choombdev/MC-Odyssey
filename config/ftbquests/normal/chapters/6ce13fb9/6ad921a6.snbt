@@ -1,0 +1,31 @@
+{
+	x: 0.5d,
+	y: 6.0d,
+	dependencies: [
+		"f0bc147f"
+	],
+	tasks: [{
+		uid: "d82a8da2",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:guidancecomputer"
+		}]
+	},
+	{
+		uid: "a84baf89",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "libvulpes:linker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "50c287b7",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	x: -6.5d,
+	y: 5.0d,
+	dependencies: [
+		"0cb5a093"
+	],
+	tasks: [{
+		uid: "c60a84ce",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_relocator"
+		}]
+	},
+	{
+		uid: "0dc41212",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_duplicator"
+		}]
+	}],
+	rewards: [{
+		uid: "6423c4ee",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "24fe7017",
+		type: "loot",
+		table: 0
+	}]
+}

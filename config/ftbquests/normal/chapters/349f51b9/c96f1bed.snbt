@@ -1,0 +1,29 @@
+{
+	x: -0.5d,
+	y: -9.5d,
+	dependencies: [
+		"3e5df6e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9494cb4a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "icbmclassic:explosives",
+			Damage: 22s
+		}]
+	}],
+	rewards: [{
+		uid: "dfe7bfb6",
+		type: "ftbmoney:money",
+		ftb_money: 75000L
+	},
+	{
+		uid: "d59c80c6",
+		type: "loot",
+		table: 0
+	}]
+}

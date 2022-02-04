@@ -1,0 +1,21 @@
+{
+	x: -4.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "5ed72289",
+		type: "kill",
+		icon: "twilightforest:trophy 1 2",
+		entity: "twilightforest:hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "533156e2",
+		type: "ftbmoney:money",
+		ftb_money: 3500L
+	},
+	{
+		uid: "b4d40285",
+		type: "loot",
+		table: 0
+	}]
+}

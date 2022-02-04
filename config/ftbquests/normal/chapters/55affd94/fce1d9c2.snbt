@@ -1,0 +1,38 @@
+{
+	x: -6.5d,
+	y: 2.0d,
+	dependencies: [
+		"47f3348b"
+	],
+	tasks: [{
+		uid: "5551c7e5",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit 1 1"
+		}]
+	},
+	{
+		uid: "2ed86202",
+		type: "item",
+		items: [{
+			item: "enderio:item_liquid_conduit 1 1"
+		}]
+	},
+	{
+		uid: "d99bffc5",
+		type: "item",
+		items: [{
+			item: "enderio:item_gas_conduit 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "85a58141",
+		type: "ftbmoney:money",
+		ftb_money: 760L
+	},
+	{
+		uid: "346843fc",
+		type: "loot",
+		table: 0
+	}]
+}

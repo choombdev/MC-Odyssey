@@ -1,0 +1,44 @@
+{
+	title: "Magic Starter Kit",
+	x: -18.5d,
+	y: -9.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9868a125"
+	],
+	tasks: [{
+		uid: "0bfead08",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6847760179434969687L,
+					AS_Amulet_HolderMost: 1368772302587643136L
+				}
+			},
+			id: "ebwizardry:magic_wand",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f39e3594",
+		type: "item",
+		items: [{
+			item: "ebwizardry:spell_book 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "7846e08f",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	},
+	{
+		uid: "3bac20a9",
+		type: "loot",
+		table: 1
+	}]
+}

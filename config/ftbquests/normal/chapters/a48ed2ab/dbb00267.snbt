@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -2.0d,
+	dependencies: [
+		"bc43cbba"
+	],
+	tasks: [{
+		uid: "aaf26bd9",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor"
+		}]
+	}],
+	rewards: [{
+		uid: "98f6e8ec",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	}]
+}

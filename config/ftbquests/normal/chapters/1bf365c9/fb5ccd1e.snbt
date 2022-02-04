@@ -1,0 +1,43 @@
+{
+	x: -4.0d,
+	y: -3.5d,
+	dependencies: [
+		"ff214a4b"
+	],
+	tasks: [{
+		uid: "ec2b8486",
+		type: "item",
+		items: [{
+			item: "iceandfire:fire_dragon_heart"
+		}]
+	},
+	{
+		uid: "9e44ddc1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dragonSkull",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dragonSkull"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "14b01818",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "9146692d",
+		type: "loot",
+		table: 0
+	}]
+}

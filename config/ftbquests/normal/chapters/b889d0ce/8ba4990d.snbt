@@ -1,0 +1,35 @@
+{
+	title: "Time in a bottle",
+	x: -33.5d,
+	y: 1.0d,
+	text: [
+		"I recommend crafting the time in a bottle early on.",
+		"",
+		"The time in a bottle carries, well, time in it. By using it on any block, it'll accelerate it's tick speed by using up some of the saved time."
+	],
+	tasks: [{
+		uid: "54580627",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:timeinabottle",
+			tag: {
+				timeData: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b2a3b705",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	},
+	{
+		uid: "35c14420",
+		type: "loot",
+		table: 1
+	}]
+}

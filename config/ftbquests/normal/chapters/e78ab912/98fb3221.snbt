@@ -1,0 +1,31 @@
+{
+	x: -20.0d,
+	y: 4.0d,
+	text: [
+		"Crafting using LP requires a blood orb, one that can be recharged with blood inside of the altar.",
+		"",
+		"Basically, battery for blood."
+	],
+	dependencies: [
+		"f8caa4b8"
+	],
+	tasks: [{
+		uid: "c57c763c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:weak"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "b25d9f46",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

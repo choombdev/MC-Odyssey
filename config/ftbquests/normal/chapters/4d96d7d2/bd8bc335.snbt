@@ -1,0 +1,22 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	text: [
+		"Diamond Chests but Crystal Clear"
+	],
+	dependencies: [
+		"32c4124c"
+	],
+	tasks: [{
+		uid: "90d5b15f",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "97589363",
+		type: "loot",
+		table: 0
+	}]
+}

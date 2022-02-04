@@ -1,0 +1,26 @@
+{
+	title: "Pizzeria",
+	x: -7.0d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "ffe56e63",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:dominos"
+		}],
+		count: 1000L
+	}],
+	rewards: [{
+		uid: "e336b84d",
+		type: "ftbmoney:money",
+		ftb_money: 50000L
+	},
+	{
+		uid: "55ba29e2",
+		type: "loot",
+		table: 0
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	title: "Portality Portals",
+	x: -6.5d,
+	y: -2.5d,
+	text: [
+		"A 5x5 hollow of frames and the controller will sit in the bottom row center of it. Then you will need to make it 3 blocks deep. (You will only need to add a controller in the first row), You'll also need a  Interdimensional module in one of the bottom corners. The controller will need power to operate.",
+		"",
+		"For more functionality though, check the mod's curseforge page."
+	],
+	tasks: [{
+		uid: "f378e266",
+		type: "item",
+		items: [{
+			item: "portality:frame"
+		}],
+		count: 47L
+	},
+	{
+		uid: "2c62fdeb",
+		type: "item",
+		items: [{
+			item: "portality:controller"
+		}]
+	},
+	{
+		uid: "fe6b2aef",
+		type: "item",
+		items: [{
+			item: "portality:module_interdimensional"
+		}]
+	}],
+	rewards: [{
+		uid: "a33a0a44",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	},
+	{
+		uid: "3c4dcce0",
+		type: "loot",
+		table: 0
+	}]
+}

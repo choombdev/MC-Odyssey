@@ -1,0 +1,21 @@
+{
+	x: -39.5d,
+	y: 0.5d,
+	dependencies: [
+		"39015644"
+	],
+	tasks: [{
+		uid: "c05e4003",
+		type: "item",
+		items: [{
+			item: "bibliocraft:armorstand"
+		}]
+	},
+	{
+		uid: "3afb6583",
+		type: "item",
+		items: [{
+			item: "bibliocraft:case"
+		}]
+	}]
+}

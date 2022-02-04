@@ -1,0 +1,35 @@
+{
+	title: "Fire and Water Mills",
+	x: -8.0d,
+	y: -3.5d,
+	text: [
+		"Fire and Water mills are easy but not as effective types of mills, you can skip using both and head right into Lava Mill if you've got access to that kind of Lava."
+	],
+	dependencies: [
+		"31643c7d"
+	],
+	tasks: [{
+		uid: "92570d01",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 5"
+		}]
+	},
+	{
+		uid: "77384815",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "135cc95e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "22cf17f7",
+		type: "loot",
+		table: 1
+	}]
+}

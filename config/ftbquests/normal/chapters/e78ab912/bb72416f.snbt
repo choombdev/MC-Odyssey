@@ -1,0 +1,20 @@
+{
+	title: "Blood Magic",
+	x: -20.5d,
+	y: -1.5d,
+	text: [
+		"Demonic Will Gathering is done through using snares, for now, throwing a snare at a mob then waiting for an effect before killing will drop a demonic will."
+	],
+	tasks: [{
+		uid: "71cbeebe",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}]
+	}],
+	rewards: [{
+		uid: "74b19e0f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

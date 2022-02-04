@@ -1,0 +1,29 @@
+{
+	x: -4.0d,
+	y: -1.5d,
+	dependencies: [
+		"ff214a4b"
+	],
+	tasks: [{
+		uid: "4120e53c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:tide_trident"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2663c226",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "181cfb74",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

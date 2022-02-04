@@ -1,0 +1,23 @@
+{
+	x: 12.0d,
+	y: 3.0d,
+	dependencies: [
+		"da2660d3"
+	],
+	tasks: [{
+		uid: "47faa754",
+		type: "dimension",
+		title: "Visit &6The Atum",
+		dim: 17
+	}],
+	rewards: [{
+		uid: "a69899cf",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	},
+	{
+		uid: "731aadac",
+		type: "loot",
+		table: 0
+	}]
+}

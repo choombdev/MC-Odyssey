@@ -1,0 +1,44 @@
+{
+	title: "Automated Storage Crafting",
+	x: 0.5d,
+	y: -7.5d,
+	text: [
+		"Crafting in your ME system could prove itself useful.",
+		"",
+		"I can't exactly tell you how to do everything in the quests so you'll have to watch a tutorial!"
+	],
+	dependencies: [
+		"f7b4e0d5"
+	],
+	tasks: [{
+		uid: "623efe9a",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_unit"
+		}]
+	},
+	{
+		uid: "de32e94d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_accelerator"
+		}]
+	},
+	{
+		uid: "35283c62",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 440"
+		}]
+	}],
+	rewards: [{
+		uid: "7c4a20c7",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "2ade8ef1",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

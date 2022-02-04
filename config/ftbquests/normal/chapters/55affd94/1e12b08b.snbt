@@ -1,0 +1,24 @@
+{
+	x: -4.5d,
+	y: 4.5d,
+	dependencies: [
+		"0cb5a093"
+	],
+	tasks: [{
+		uid: "9140ba55",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluiddictionary_converter"
+		}]
+	}],
+	rewards: [{
+		uid: "db5cd006",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "6f719856",
+		type: "loot",
+		table: 1
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -9.0d,
+	y: 2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "ce31f739",
+		type: "item",
+		items: [{
+			item: "enderio:block_infinity 1 2"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "a7504f3f",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

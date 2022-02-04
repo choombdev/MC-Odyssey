@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -8.0d,
+	y: 2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "246736ee",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:smooth_sky_stone_block"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "18641e44",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

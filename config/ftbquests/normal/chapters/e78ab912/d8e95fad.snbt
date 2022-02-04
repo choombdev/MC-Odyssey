@@ -1,0 +1,38 @@
+{
+	title: "Quarries",
+	x: -8.0d,
+	y: -6.5d,
+	description: "More resources!",
+	text: [
+		"Start gathering more and more resources using a quarry, keep in mind it eats not only *ALOT* of power, but creating the quarry itself is going to require *ALOT* of resources.",
+		"Don't start working on this unless you're in the mid-game area."
+	],
+	dependencies: [
+		"31643c7d"
+	],
+	tasks: [{
+		uid: "9c903f26",
+		type: "item",
+		items: [{
+			item: "extrautils2:quarryproxy"
+		}],
+		count: 6L
+	},
+	{
+		uid: "34b8a525",
+		type: "item",
+		items: [{
+			item: "extrautils2:quarry"
+		}]
+	}],
+	rewards: [{
+		uid: "47c6089c",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	},
+	{
+		uid: "3228f600",
+		type: "loot",
+		table: 0
+	}]
+}

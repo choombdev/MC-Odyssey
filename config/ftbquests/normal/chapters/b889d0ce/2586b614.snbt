@@ -1,0 +1,22 @@
+{
+	x: -35.5d,
+	y: 0.5d,
+	dependencies: [
+		"cb08000b"
+	],
+	tasks: [{
+		uid: "1a189e93",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "copper"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "66cc138a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

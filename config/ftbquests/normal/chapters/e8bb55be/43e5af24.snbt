@@ -1,0 +1,38 @@
+{
+	x: -14.0d,
+	y: 9.0d,
+	dependencies: [
+		"19dc67bc",
+		"6080c695",
+		"f4677aea"
+	],
+	tasks: [{
+		uid: "d8ee7245",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:giant_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3cf5db64",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:giant_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7bc4b739",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

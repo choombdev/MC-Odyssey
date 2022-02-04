@@ -1,0 +1,20 @@
+{
+	title: "Iron Chests",
+	x: -4.0d,
+	y: -1.0d,
+	text: [
+		"The Iron Chest is like a normal chest but can be placed next to each other and has a little bit more storage."
+	],
+	tasks: [{
+		uid: "b9672a64",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "56f59adb",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

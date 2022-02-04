@@ -1,0 +1,34 @@
+{
+	x: -23.0d,
+	y: 1.0d,
+	text: [
+		"Divination Sigils lets you know how much LP you have currently.",
+		"",
+		"There are definitely way more sigils than this."
+	],
+	dependencies: [
+		"7df95cf6"
+	],
+	tasks: [{
+		uid: "1bbf99a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_divination"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0314dcd0",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	},
+	{
+		uid: "a5216de3",
+		type: "loot",
+		table: 1
+	}]
+}

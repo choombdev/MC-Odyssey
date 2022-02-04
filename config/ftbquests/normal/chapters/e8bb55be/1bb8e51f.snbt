@@ -1,0 +1,23 @@
+{
+	title: "Visit &6the Twilight Forest",
+	x: -14.0d,
+	y: -1.0d,
+	text: [
+		"Place four water buckets in a 2x2 (Like an infinite source) and surround it by flowers before throwing a diamond in."
+	],
+	tasks: [{
+		uid: "85baae26",
+		type: "dimension",
+		dim: 7
+	}],
+	rewards: [{
+		uid: "46d7234b",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	},
+	{
+		uid: "8f4a40e1",
+		type: "loot",
+		table: 0
+	}]
+}

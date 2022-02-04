@@ -1,0 +1,22 @@
+{
+	x: 0.5d,
+	y: -5.0d,
+	dependencies: [
+		"719a5cb1"
+	],
+	tasks: [{
+		uid: "5e2813de",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "endoflame"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "8a43ef76",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

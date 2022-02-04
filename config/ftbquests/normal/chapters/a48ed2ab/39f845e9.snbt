@@ -1,0 +1,26 @@
+{
+	title: "Fastest way to transfer RF",
+	x: 2.5d,
+	y: 2.0d,
+	text: [
+		"With Infinite RF/Tick as it's speed, Cryo-Stablizied Fluxducts are the best form of RF Transportation you'll find in the modpack.",
+		"",
+		"Remember though, you'll first need to create an empty one then fill it."
+	],
+	dependencies: [
+		"a9040d3c",
+		"1929f280"
+	],
+	tasks: [{
+		uid: "ae5cc310",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 9"
+		}]
+	}],
+	rewards: [{
+		uid: "a24dce37",
+		type: "loot",
+		table: 1
+	}]
+}

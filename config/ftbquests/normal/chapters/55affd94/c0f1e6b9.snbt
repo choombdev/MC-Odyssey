@@ -1,0 +1,59 @@
+{
+	title: "Induction Matrix",
+	x: 4.0d,
+	y: 3.0d,
+	text: [
+		"Building an Induction Matrix will help you not only store your RF but also will provide you of a way of tracking how much RF is coming in and going out of ",
+		"your system."
+	],
+	dependencies: [
+		"5644f324",
+		"691f2d0c"
+	],
+	tasks: [{
+		uid: "d0fb6b3f",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2 1 1"
+		}]
+	},
+	{
+		uid: "33770511",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2 1 2"
+		}]
+	},
+	{
+		uid: "178a9752",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 0
+			},
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "19e1a107",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 0
+			},
+			Damage: 4s
+		}]
+	}],
+	rewards: [{
+		uid: "17660488",
+		type: "ftbmoney:money",
+		ftb_money: 750L
+	},
+	{
+		uid: "5882febf",
+		type: "loot",
+		table: 0
+	}]
+}

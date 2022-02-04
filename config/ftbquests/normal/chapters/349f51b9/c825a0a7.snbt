@@ -1,0 +1,26 @@
+{
+	x: -9.5d,
+	y: -5.5d,
+	text: [
+		"spain without the s"
+	],
+	tasks: [{
+		uid: "8513684e",
+		type: "item",
+		title: "Pain",
+		items: [{
+			item: "futuremc:netherite_ingot"
+		}],
+		count: 128L
+	}],
+	rewards: [{
+		uid: "9bb14527",
+		type: "ftbmoney:money",
+		ftb_money: 50000L
+	},
+	{
+		uid: "12850351",
+		type: "loot",
+		table: 0
+	}]
+}

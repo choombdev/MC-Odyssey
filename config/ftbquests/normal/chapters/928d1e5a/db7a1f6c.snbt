@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -8.0d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "38a87d17",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 45"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "c086c074",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

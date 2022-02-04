@@ -1,0 +1,32 @@
+{
+	x: -8.5d,
+	y: 2.0d,
+	text: [
+		"All wrenches in one wrench."
+	],
+	dependencies: [
+		"66d5271c"
+	],
+	tasks: [{
+		uid: "a0072680",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "morphtool:tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "99728c8f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "010a78e4",
+		type: "loot",
+		table: 1
+	}]
+}

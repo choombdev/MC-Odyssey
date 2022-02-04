@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"b74a8b1d"
+	],
+	tasks: [{
+		uid: "89d568e8",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:water_source_compact"
+		}]
+	}],
+	rewards: [{
+		uid: "f587f379",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "52c2b59e",
+		type: "loot",
+		table: 0
+	}]
+}

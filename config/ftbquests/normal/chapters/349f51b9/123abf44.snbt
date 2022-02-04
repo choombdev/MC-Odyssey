@@ -1,0 +1,24 @@
+{
+	x: -7.0d,
+	y: -6.5d,
+	dependencies: [
+		"c03967a2"
+	],
+	tasks: [{
+		uid: "0eb5bd5f",
+		type: "item",
+		items: [{
+			item: "projecte:collector_mk1"
+		}]
+	}],
+	rewards: [{
+		uid: "69f2c58a",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "8dc71a18",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	}]
+}

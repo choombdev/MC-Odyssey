@@ -1,0 +1,61 @@
+{
+	title: "Tinker's Construct #2",
+	x: -35.5d,
+	y: -1.0d,
+	text: [
+		"If you'd like to begin using Metals, you'll need to build a smeltery using seared bricks. ",
+		"",
+		"To get seared bricks, craft grout by combining sand, gravel and clay then smelt it."
+	],
+	dependencies: [
+		"c13dad9b"
+	],
+	tasks: [{
+		uid: "e90823bf",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}],
+		count: 3L
+	},
+	{
+		uid: "220d776c",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}],
+		count: 27L
+	},
+	{
+		uid: "939e52f0",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "b9c66522",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}],
+		count: 3L
+	},
+	{
+		uid: "6b9135f0",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		}]
+	}],
+	rewards: [{
+		uid: "2277c475",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "3f0ae700",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

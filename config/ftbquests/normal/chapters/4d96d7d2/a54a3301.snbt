@@ -1,0 +1,28 @@
+{
+	title: "Portable Storage",
+	x: -9.5d,
+	y: -6.0d,
+	text: [
+		"Did you know we have about two backpack mods? ",
+		"",
+		"Improved backpacks is one of them!",
+		"You can add your backpack to a slot in your bauble inventory then use it with a key."
+	],
+	tasks: [{
+		uid: "2a5c9607",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvedbackpacks:backpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f3e915a6",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	title: "Your Odyssey",
+	icon: "minecraft:log",
+	description: [
+		"Begin your Odyssey here!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

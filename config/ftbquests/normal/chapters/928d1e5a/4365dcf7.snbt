@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -3.0d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "f4e5efbc",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "3b723dc8",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

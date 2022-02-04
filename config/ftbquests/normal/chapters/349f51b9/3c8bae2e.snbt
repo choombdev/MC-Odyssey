@@ -1,0 +1,130 @@
+{
+	title: "Collect all Hearty Feasts",
+	x: -7.0d,
+	y: -10.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "da39ceb9",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:moresmore"
+		}]
+	},
+	{
+		uid: "4220e14c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:heartybreakfastitem"
+		}]
+	},
+	{
+		uid: "8fd9b0b7",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bentoboxitem"
+		}]
+	},
+	{
+		uid: "16c56a29",
+		type: "item",
+		items: [{
+			item: "harvestcraft:friedfeastitem"
+		}]
+	},
+	{
+		uid: "43346edd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:timpanoitem"
+		}]
+	},
+	{
+		uid: "babec061",
+		type: "item",
+		items: [{
+			item: "harvestcraft:weekendpicnicitem"
+		}]
+	},
+	{
+		uid: "b5510ee4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gourmetbeefburgeritem"
+		}]
+	},
+	{
+		uid: "79899996",
+		type: "item",
+		items: [{
+			item: "harvestcraft:southernstylebreakfastitem"
+		}]
+	},
+	{
+		uid: "0d22af32",
+		type: "item",
+		items: [{
+			item: "harvestcraft:thankfuldinneritem"
+		}]
+	},
+	{
+		uid: "d1353059",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gourmetvenisonburgeritem"
+		}]
+	},
+	{
+		uid: "d1b65c60",
+		type: "item",
+		items: [{
+			item: "harvestcraft:koreandinneritem"
+		}]
+	},
+	{
+		uid: "e0a9e283",
+		type: "item",
+		items: [{
+			item: "aether_legacy:gummy_swet"
+		}]
+	},
+	{
+		uid: "03c3faed",
+		type: "item",
+		items: [{
+			item: "aether_legacy:gummy_swet 1 1"
+		}]
+	},
+	{
+		uid: "1a669072",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cornedbeefbreakfastitem"
+		}]
+	},
+	{
+		uid: "210d3aef",
+		type: "item",
+		items: [{
+			item: "rats:confit_byaldi"
+		}]
+	},
+	{
+		uid: "7e1a20f4",
+		type: "item",
+		items: [{
+			item: "rats:potato_kinishes"
+		}]
+	}],
+	rewards: [{
+		uid: "c3e59c28",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	},
+	{
+		uid: "325395c2",
+		type: "loot",
+		table: 0
+	}]
+}

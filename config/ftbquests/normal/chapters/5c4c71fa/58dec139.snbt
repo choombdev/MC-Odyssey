@@ -1,0 +1,21 @@
+{
+	x: -8.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "d6a21392",
+		type: "kill",
+		icon: "botania:felpumpkin",
+		entity: "mod_lavacow:scarecrow",
+		value: 4L
+	}],
+	rewards: [{
+		uid: "b885212d",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	},
+	{
+		uid: "5a1f0260",
+		type: "loot",
+		table: 0
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	disable_toast: true,
+	x: -0.5d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "b7d4f6ad",
+		type: "fluid",
+		fluid: "manyullyn"
+	}],
+	rewards: [{
+		uid: "59d9e15c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

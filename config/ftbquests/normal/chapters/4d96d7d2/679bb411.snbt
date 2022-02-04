@@ -1,0 +1,36 @@
+{
+	title: "Pure Crystals",
+	x: -1.0d,
+	y: -6.0d,
+	text: [
+		"You can create Crystals one of two ways.",
+		"Either through the basic way written in JEI (Throwing in fluids) or by creating a Crystal Growth Chamber, which I recommend."
+	],
+	dependencies: [
+		"cdde9517"
+	],
+	tasks: [{
+		uid: "99e328f9",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 12"
+		}]
+	},
+	{
+		uid: "26d1e1a9",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "114cc70d",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "356452c6",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

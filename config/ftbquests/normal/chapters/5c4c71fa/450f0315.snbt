@@ -1,0 +1,21 @@
+{
+	x: -6.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "94d7dd46",
+		type: "kill",
+		icon: "twilightforest:trophy 1 6",
+		entity: "twilightforest:minoshroom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "09700cd4",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "d3b91cf7",
+		type: "loot",
+		table: 0
+	}]
+}

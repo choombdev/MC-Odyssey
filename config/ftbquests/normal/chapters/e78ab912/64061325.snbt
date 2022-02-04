@@ -1,0 +1,29 @@
+{
+	x: -21.5d,
+	y: 0.0d,
+	text: [
+		"Tartaric Gems are batteries for demonic wills, they're alot better to use than simply using the raw demonic will.",
+		"",
+		"Remember that withou a Sentient Sword, you still have to use Snares."
+	],
+	dependencies: [
+		"22c831c9"
+	],
+	tasks: [{
+		uid: "a662fb75",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e43773d4",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

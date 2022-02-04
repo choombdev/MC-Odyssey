@@ -1,0 +1,29 @@
+{
+	x: -3.5d,
+	y: 1.0d,
+	dependencies: [
+		"3d1bce5f"
+	],
+	tasks: [{
+		uid: "70922f09",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "storagenetwork:remote",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e22f307a",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "a244ef3d",
+		type: "loot",
+		table: 0
+	}]
+}

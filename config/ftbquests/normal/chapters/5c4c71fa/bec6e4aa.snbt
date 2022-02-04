@@ -1,0 +1,29 @@
+{
+	x: -3.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "c831d1f1",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "inventorypets:iron_golem_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		},
+		entity: "battletowers:golem",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "fb7dce29",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	},
+	{
+		uid: "fad21b1f",
+		type: "loot",
+		table: 0
+	}]
+}

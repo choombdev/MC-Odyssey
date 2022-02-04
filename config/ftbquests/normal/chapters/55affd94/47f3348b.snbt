@@ -1,0 +1,50 @@
+{
+	title: "EnderIO Transportation",
+	x: -6.5d,
+	y: 1.0d,
+	text: [
+		"For transporting items/gases/liquids and energy you could also use EnderIO conduits. They're much better when it comes to space since you can fit ",
+		"more than one type in the same block."
+	],
+	dependencies: [
+		"43239b03"
+	],
+	tasks: [{
+		uid: "7170a6f1",
+		type: "item",
+		items: [{
+			item: "enderio:item_item_conduit"
+		}]
+	},
+	{
+		uid: "89fac17c",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit"
+		}]
+	},
+	{
+		uid: "a4bc2110",
+		type: "item",
+		items: [{
+			item: "enderio:item_gas_conduit"
+		}]
+	},
+	{
+		uid: "950cd1ec",
+		type: "item",
+		items: [{
+			item: "enderio:item_liquid_conduit"
+		}]
+	}],
+	rewards: [{
+		uid: "50133f64",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	},
+	{
+		uid: "25b6e802",
+		type: "loot",
+		table: 1
+	}]
+}

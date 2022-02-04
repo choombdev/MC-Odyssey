@@ -1,0 +1,26 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "d41e85f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "buildinggadgets:buildingtool",
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "850ef2ec",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

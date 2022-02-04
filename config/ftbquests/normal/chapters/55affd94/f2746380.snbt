@@ -1,0 +1,38 @@
+{
+	x: -7.5d,
+	y: 5.0d,
+	dependencies: [
+		"0cb5a093"
+	],
+	tasks: [{
+		uid: "e9f326b1",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_sower"
+		}]
+	},
+	{
+		uid: "7a94cb09",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_recolector"
+		}]
+	},
+	{
+		uid: "ca431584",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_enrich_material_injector"
+		}]
+	}],
+	rewards: [{
+		uid: "05cff07d",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "91876d16",
+		type: "loot",
+		table: 0
+	}]
+}

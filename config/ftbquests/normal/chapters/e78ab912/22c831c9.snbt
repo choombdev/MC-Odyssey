@@ -1,0 +1,19 @@
+{
+	x: -20.5d,
+	y: 0.5d,
+	dependencies: [
+		"bb72416f"
+	],
+	tasks: [{
+		uid: "abb5c095",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_forge"
+		}]
+	}],
+	rewards: [{
+		uid: "2265edfb",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	title: "Hardened Transportation",
+	x: -5.5d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"43239b03"
+	],
+	tasks: [{
+		uid: "a1ac931a",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_16 1 2"
+		}]
+	},
+	{
+		uid: "1fa87423",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 1"
+		}]
+	},
+	{
+		uid: "b3341dd4",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_32 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "b678ecda",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "ecf190d7",
+		type: "loot",
+		table: 1
+	}]
+}

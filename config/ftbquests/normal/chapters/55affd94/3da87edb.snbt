@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	dependencies: [
+		"15462661"
+	],
+	tasks: [{
+		uid: "14843486",
+		type: "item",
+		items: [{
+			item: "excompressum:auto_sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "bbf52c72",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

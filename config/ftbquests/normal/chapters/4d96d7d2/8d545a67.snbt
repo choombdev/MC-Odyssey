@@ -1,0 +1,34 @@
+{
+	x: -1.0d,
+	y: -3.0d,
+	dependencies: [
+		"c1d8f0d4"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "52fec5f7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:storage.physical",
+			tag: {
+				upgrades: {},
+				config: {},
+				fuzzyMode: "IGNORE_ALL"
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1b7ca63c",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	},
+	{
+		uid: "82bd4df1",
+		type: "loot",
+		table: 0
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	x: -24.5d,
+	y: 4.5d,
+	dependencies: [
+		"c9a8067b"
+	],
+	tasks: [{
+		uid: "29b7dc5c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:archmage"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "67ca034f",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "0eb2bd96",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

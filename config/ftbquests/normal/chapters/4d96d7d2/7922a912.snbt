@@ -1,0 +1,22 @@
+{
+	title: "Applied Energistics 2",
+	x: -4.0d,
+	y: -6.0d,
+	text: [
+		"To begin in Applied Energistics 2, you'll first need to create a compass for finding meteors (Or, well, finding them yourself) and find Skystone Meteors.",
+		"",
+		"Mining to the Center of said Meteors, you'll find a chest with Inscriber Plates!"
+	],
+	tasks: [{
+		uid: "510af040",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:sky_compass"
+		}]
+	}],
+	rewards: [{
+		uid: "ebc7a0e3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

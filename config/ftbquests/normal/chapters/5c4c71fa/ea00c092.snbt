@@ -1,0 +1,26 @@
+{
+	x: -8.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "c36dff00",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_pickaxe"
+		},
+		entity: "twilightforest:giant_miner",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "bcdd6160",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "d0c4b307",
+		type: "loot",
+		table: 0
+	}]
+}

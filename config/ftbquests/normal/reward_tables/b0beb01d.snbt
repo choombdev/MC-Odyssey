@@ -1,0 +1,145 @@
+{
+	title: "Skills",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "improvableskills:skills_book"
+	},
+	loot_size: 1,
+	use_title: true,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:luck_of_the_sea"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6847760179434969687L,
+					AS_Amulet_HolderMost: 1368772302587643136L
+				}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:obsidian_skin"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:atkdmg_ranged"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:alchemist"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:growth"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:ender_manipulator"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:generic_protection"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:health"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:enchanter"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:xp+"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvableskills:scroll_normal",
+			tag: {
+				Skill: "improvableskills:treasure_sands"
+			}
+		}
+	}],
+	loot_crate: {
+		string_id: "skills",
+		item_name: "Skill Lootbox",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

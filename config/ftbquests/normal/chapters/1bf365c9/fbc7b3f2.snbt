@@ -1,0 +1,29 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"ff214a4b"
+	],
+	tasks: [{
+		uid: "acebb18b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:gorgon_head"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f777dc91",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "b0ba646c",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

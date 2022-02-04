@@ -1,0 +1,21 @@
+{
+	icon: "minecraft:skull 1 5",
+	x: -9.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "eed18fba",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "804d0531",
+		type: "ftbmoney:money",
+		ftb_money: 4000L
+	},
+	{
+		uid: "342cd707",
+		type: "choice",
+		table: 0
+	}]
+}
