@@ -1,0 +1,20 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	dependencies: [
+		"e8ccb7ad",
+		"d5b0eb05"
+	],
+	tasks: [{
+		uid: "85353139",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rollingmachine"
+		}]
+	}],
+	rewards: [{
+		uid: "534ed448",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	}]
+}

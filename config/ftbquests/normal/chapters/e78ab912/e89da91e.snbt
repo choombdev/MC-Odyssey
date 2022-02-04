@@ -1,0 +1,22 @@
+{
+	title: "GP Generation",
+	x: -9.5d,
+	y: -5.0d,
+	text: [
+		"To begin generating GP, you'll need to create mills, simple as that, this line will follow how to generate more and more GP as you go on.",
+		"",
+		"(Remember, use /xu_powersharing to share GP with specific people on your server)."
+	],
+	tasks: [{
+		uid: "0f7b746e",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "fa9ed318",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

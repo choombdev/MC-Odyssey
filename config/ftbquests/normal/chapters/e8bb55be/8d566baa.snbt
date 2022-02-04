@@ -1,0 +1,24 @@
+{
+	x: -14.0d,
+	y: 6.0d,
+	dependencies: [
+		"0ab9afd0"
+	],
+	tasks: [{
+		uid: "8b596c8c",
+		type: "item",
+		items: [{
+			item: "twilightforest:alpha_fur"
+		}]
+	}],
+	rewards: [{
+		uid: "7a58d4af",
+		type: "ftbmoney:money",
+		ftb_money: 1750L
+	},
+	{
+		uid: "2db1ba75",
+		type: "loot",
+		table: 1
+	}]
+}

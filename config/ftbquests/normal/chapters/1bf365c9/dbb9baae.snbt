@@ -1,0 +1,29 @@
+{
+	x: -14.0d,
+	y: 0.5d,
+	dependencies: [
+		"c6943c91"
+	],
+	tasks: [{
+		uid: "b5b1c943",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:undertaker_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "35304795",
+		type: "ftbmoney:money",
+		ftb_money: 6000L
+	},
+	{
+		uid: "85dda1a8",
+		type: "loot",
+		table: 0
+	}]
+}

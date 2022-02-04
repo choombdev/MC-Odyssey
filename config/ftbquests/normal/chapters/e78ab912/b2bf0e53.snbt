@@ -1,0 +1,25 @@
+{
+	x: -19.0d,
+	y: 0.0d,
+	text: [
+		"Sentient Swords are swords that let you collect wills without using snares.",
+		"",
+		"Drop the sword for a damage boost, really."
+	],
+	dependencies: [
+		"22c831c9"
+	],
+	tasks: [{
+		uid: "8c83cba9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sentient_sword",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

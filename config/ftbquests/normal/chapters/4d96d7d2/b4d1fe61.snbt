@@ -1,0 +1,28 @@
+{
+	title: "Simple Storage",
+	x: -6.5d,
+	y: 1.0d,
+	text: [
+		"Simple storage is an easy way to create a storage system using your existing chests, the only downside is the more items you have the laggier your game will get",
+		"so don't depend on it for a long time!"
+	],
+	tasks: [{
+		uid: "dc764f68",
+		type: "item",
+		items: [{
+			item: "storagenetwork:controller"
+		}]
+	},
+	{
+		uid: "61a159e8",
+		type: "item",
+		items: [{
+			item: "storagenetwork:simple_kabel"
+		}]
+	}],
+	rewards: [{
+		uid: "f756de9c",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

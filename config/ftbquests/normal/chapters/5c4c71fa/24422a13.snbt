@@ -1,0 +1,26 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "iceandfire:siren_flute"
+	},
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "7a2cb042",
+		type: "kill",
+		entity: "iceandfire:siren",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "067158ec",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	},
+	{
+		uid: "1d35e502",
+		type: "loot",
+		table: 0
+	}]
+}

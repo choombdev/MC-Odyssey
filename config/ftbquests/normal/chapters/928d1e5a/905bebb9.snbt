@@ -1,0 +1,31 @@
+{
+	disable_toast: true,
+	x: -4.0d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "0b53960d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "foodMeat",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any foodMeat"
+				}
+			}
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "2a902b2d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

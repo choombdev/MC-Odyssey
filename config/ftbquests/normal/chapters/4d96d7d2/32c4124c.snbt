@@ -1,0 +1,27 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	text: [
+		"Diamond Chests are better than Gold Chests and are the highest tier you can achieve."
+	],
+	dependencies: [
+		"9299784f"
+	],
+	tasks: [{
+		uid: "19ea779a",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "aff996f3",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "00c1aa73",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	}]
+}

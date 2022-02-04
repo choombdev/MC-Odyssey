@@ -1,0 +1,38 @@
+{
+	title: "Transporting Mobs",
+	x: -37.5d,
+	y: 4.0d,
+	text: [
+		"To transport mobs, you'll need to either make a mob imprisonment tool or a soul vial (Or both).",
+		"These two will also help you later on in the tech part of the modpack to duplicate said mobs."
+	],
+	tasks: [{
+		uid: "b6f08346",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:mob_imprisonment_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9b58a3c5",
+		type: "item",
+		items: [{
+			item: "enderio:item_soul_vial"
+		}]
+	}],
+	rewards: [{
+		uid: "910073f4",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	},
+	{
+		uid: "7b05341d",
+		type: "loot",
+		table: 0
+	}]
+}

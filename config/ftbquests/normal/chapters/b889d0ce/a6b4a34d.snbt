@@ -1,0 +1,27 @@
+{
+	x: -37.0d,
+	y: 6.0d,
+	dependencies: [
+		"02b34adb"
+	],
+	tasks: [{
+		uid: "1c957833",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "manyullyn"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "d63db3ee",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "1efbe4a0",
+		type: "loot",
+		table: 0
+	}]
+}

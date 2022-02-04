@@ -1,0 +1,32 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	dependencies: [
+		"ff214a4b"
+	],
+	tasks: [{
+		uid: "e89a1778",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6847760179434969687L,
+					AS_Amulet_HolderMost: 1368772302587643136L
+				}
+			},
+			id: "iceandfire:dread_queen_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "587be2ad",
+		type: "ftbmoney:money",
+		ftb_money: 50000L
+	},
+	{
+		uid: "73372ef9",
+		type: "loot",
+		table: 0
+	}]
+}

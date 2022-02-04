@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: -6.5d,
+	dependencies: [
+		"fe1a4209"
+	],
+	tasks: [{
+		uid: "5f3cbff1",
+		type: "item",
+		items: [{
+			item: "projecte:condenser_mk2"
+		}]
+	}],
+	rewards: [{
+		uid: "df224e6c",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "2b161767",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

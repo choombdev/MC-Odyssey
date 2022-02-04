@@ -1,0 +1,48 @@
+{
+	title: "Storing your energy",
+	x: -2.0d,
+	y: 3.5d,
+	text: [
+		"You'll definitely need a way to store all this power now."
+	],
+	dependencies: [
+		"bdc78eb5"
+	],
+	tasks: [{
+		uid: "0edcc35d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:cell",
+			tag: {
+				Recv: 1000,
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				],
+				Level: 0b,
+				Send: 1000
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6ef21793",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	},
+	{
+		uid: "a9e48ada",
+		type: "loot",
+		table: 0
+	}]
+}

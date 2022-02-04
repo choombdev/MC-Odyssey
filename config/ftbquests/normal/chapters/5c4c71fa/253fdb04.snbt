@@ -1,0 +1,21 @@
+{
+	icon: "rats:plague_doctorate",
+	x: -9.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "2625b3ff",
+		type: "kill",
+		entity: "rats:black_death",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "fcb6eecf",
+		type: "ftbmoney:money",
+		ftb_money: 6000L
+	},
+	{
+		uid: "d0347991",
+		type: "loot",
+		table: 0
+	}]
+}

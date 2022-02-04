@@ -1,0 +1,25 @@
+{
+	title: "Cow in a Jar",
+	x: -33.5d,
+	y: 2.5d,
+	text: [
+		"Yes, I'm sorry."
+	],
+	tasks: [{
+		uid: "482b0c3d",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cow_jar"
+		}]
+	}],
+	rewards: [{
+		uid: "9a3be0d6",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	},
+	{
+		uid: "dd94c993",
+		type: "loot",
+		table: 1
+	}]
+}

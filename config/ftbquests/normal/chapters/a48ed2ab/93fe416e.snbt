@@ -1,0 +1,24 @@
+{
+	x: 4.0d,
+	y: -1.5d,
+	dependencies: [
+		"b0dca5ff"
+	],
+	tasks: [{
+		uid: "b3d1de27",
+		type: "item",
+		items: [{
+			item: "enderio:block_cap_bank 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "d62f2010",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	},
+	{
+		uid: "72d0be27",
+		type: "loot",
+		table: 1
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	dependencies: [
+		"a96997ac"
+	],
+	tasks: [{
+		uid: "57c6d129",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:electrolyser_idle"
+		}]
+	}],
+	rewards: [{
+		uid: "1f966325",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "f6ea0a25",
+		type: "ftbmoney:money",
+		ftb_money: 750L
+	}]
+}

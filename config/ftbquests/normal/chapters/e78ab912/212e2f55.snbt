@@ -1,0 +1,52 @@
+{
+	title: "Portal to Alfheim",
+	x: 0.0d,
+	y: -0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"c2af1178"
+	],
+	tasks: [{
+		uid: "a75ecadd",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		count: 8L
+	},
+	{
+		uid: "39e41fe0",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	},
+	{
+		uid: "726cdfb6",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "14645478",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "735edc13",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "1d79d91e",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

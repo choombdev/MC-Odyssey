@@ -1,0 +1,32 @@
+{
+	x: -21.0d,
+	y: 6.0d,
+	text: [
+		"Fuel Source using LP, note that after LP ends it'll give you debuffs."
+	],
+	dependencies: [
+		"98fb3221"
+	],
+	tasks: [{
+		uid: "70c3b1a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:lava_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0f22d231",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	},
+	{
+		uid: "600fb297",
+		type: "loot",
+		table: 1
+	}]
+}

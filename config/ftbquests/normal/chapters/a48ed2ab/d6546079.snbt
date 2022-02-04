@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: 3.0d,
+	dependencies: [
+		"2f66ff2d"
+	],
+	tasks: [{
+		uid: "dde852e7",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_stellar"
+		}]
+	}],
+	rewards: [{
+		uid: "b5637de7",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "6e4409d2",
+		type: "loot",
+		table: 0
+	}]
+}

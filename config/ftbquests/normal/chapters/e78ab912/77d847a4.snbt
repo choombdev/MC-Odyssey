@@ -1,0 +1,31 @@
+{
+	title: "Resonating Wand",
+	x: -12.0d,
+	y: -2.5d,
+	text: [
+		"Resonating Wands can help you find Crystal Ores, simply hold them at night and you'll see glowing light effects coming from the ground where the crystals are."
+	],
+	dependencies: [
+		"74a46b24"
+	],
+	tasks: [{
+		uid: "a9ba5e03",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "44396d5a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

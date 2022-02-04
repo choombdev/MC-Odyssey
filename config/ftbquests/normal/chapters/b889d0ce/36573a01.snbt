@@ -1,0 +1,27 @@
+{
+	title: "Quest for unlimited food",
+	x: -30.0d,
+	y: 0.0d,
+	text: [
+		"You'll first need to find a wheat stick while adventuring before placing it in a casting table and filling the basin with water using your smeltery.",
+		"",
+		"[Note, to put water in your smeltery, right click a drain with buckets of water]"
+	],
+	tasks: [{
+		uid: "599510af",
+		type: "item",
+		items: [{
+			item: "tconstruct:spaghetti"
+		}]
+	}],
+	rewards: [{
+		uid: "96c61968",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "0774eb25",
+		type: "loot",
+		table: 0
+	}]
+}

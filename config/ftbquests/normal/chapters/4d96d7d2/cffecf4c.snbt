@@ -1,0 +1,31 @@
+{
+	x: -6.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "43d8dd3a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6847760179434969687L,
+					AS_Amulet_HolderMost: 1368772302587643136L
+				}
+			},
+			id: "danknull:dank_null_0"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9eaa6386",
+		type: "item",
+		items: [{
+			item: "danknull:danknull_dock"
+		}]
+	}],
+	rewards: [{
+		uid: "4515313b",
+		type: "loot",
+		table: 1
+	}]
+}

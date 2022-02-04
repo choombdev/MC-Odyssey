@@ -1,0 +1,33 @@
+{
+	x: 2.5d,
+	y: 5.5d,
+	dependencies: [
+		"f0bc147f"
+	],
+	tasks: [{
+		uid: "49184c60",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:stationbuilder"
+		}]
+	},
+	{
+		uid: "aaadbb2d",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:loader 1 1"
+		}]
+	},
+	{
+		uid: "71cddfbe",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:spacestationchip"
+		}]
+	}],
+	rewards: [{
+		uid: "91e6bc80",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	}]
+}

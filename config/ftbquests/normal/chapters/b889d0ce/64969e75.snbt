@@ -1,0 +1,22 @@
+{
+	x: -36.0d,
+	y: -4.0d,
+	description: "Bonsai Pots can grow trees and output everything a tree outputs in one block!",
+	tasks: [{
+		uid: "16a1e557",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot"
+		}]
+	}],
+	rewards: [{
+		uid: "88114d2c",
+		type: "item",
+		item: "minecraft:dirt"
+	},
+	{
+		uid: "a17df1c1",
+		type: "item",
+		item: "minecraft:sapling"
+	}]
+}

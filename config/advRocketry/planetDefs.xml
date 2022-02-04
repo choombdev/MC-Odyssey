@@ -1,0 +1,66 @@
+<galaxy>
+    <star name="Sun" temp="100" x="0" y="0" numPlanets="0" numGasGiants="0">
+		<planet name="Earth" DIMID="0" dimMapping="" customIcon="EarthLike">
+			<planet name="Moon" DIMID="66" customIcon="moon">
+				<skyColor>0,0,0</skyColor>
+				<orbitalDistance>120</orbitalDistance>
+				<atmosphereDensity>5</atmosphereDensity>
+				<isKnown>True</isKnown>
+				<orbitalTheta>0</orbitalTheta>
+				<gravitationalMultiplier>8</gravitationalMultiplier>
+				<fillerBlock>quark:marble</fillerBlock>
+				<OreGen>
+					<ore block="nuclearcraft:ore:3" minHeight="1" maxHeight="32" clumpSize="8" chancePerChunk="10"/>
+					<ore block="nuclearcraft:ore:4" minHeight="1" maxHeight="32" clumpSize="8" chancePerChunk="10"/>
+					<ore block="nuclearcraft:ore:5" minHeight="1" maxHeight="32" clumpSize="8" chancePerChunk="10"/>
+					<ore block="nuclearcraft:ore:6" minHeight="1" maxHeight="32" clumpSize="8" chancePerChunk="10"/>
+					<ore block="nuclearcraft:ore:7" minHeight="1" maxHeight="32" clumpSize="8" chancePerChunk="10"/>
+        	    </OreGen>
+            </planet>
+        </planet>
+		<planet name="Aether" DIMID="256" dimMapping="" customIcon="IceWorld">
+            <skyColor>0,0,0</skyColor>
+			<atmosphereDensity>150</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>60</orbitalDistance>
+			<isKnown>True</isKnown>
+			<rotationalPeriod>1400000</rotationalPeriod>
+        </planet>
+		<planet name="Aurorian" DIMID="424" dimMapping="" customIcon="GasGiantBlue">
+            <skyColor>0,0,0</skyColor>
+			<atmosphereDensity>150</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>130</orbitalDistance>
+			<isKnown>True</isKnown>
+			<rotationalPeriod>1400000</rotationalPeriod>
+        </planet>
+		<planet name="The Erebus" DIMID="16" dimMapping="" customIcon="MarsLike">
+            <skyColor>0,0,0</skyColor>
+			<atmosphereDensity>150</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>130</orbitalDistance>
+			<isKnown>True</isKnown>
+			<rotationalPeriod>1400000</rotationalPeriod>
+        </planet>
+		<planet name="The Atum" DIMID="17" dimMapping="" customIcon="DesertWorld">
+            <skyColor>0,0,0</skyColor>
+			<atmosphereDensity>150</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>130</orbitalDistance>
+			<isKnown>True</isKnown>
+			<rotationalPeriod>1400000</rotationalPeriod>
+        </planet>
+	<planet name="Gehenna" DIMID="55" customIcon="Lava">
+			<skyColor>0,0,0</skyColor>
+			<orbitalDistance>120</orbitalDistance>
+			<atmosphereDensity>150</atmosphereDensity>
+			<isKnown>True</isKnown>
+			<oceanBlock>minecraft:lava</oceanBlock>
+			<fillerBlock>minecraft:netherrack</fillerBlock>
+			<biomeIds>8,130</biomeIds>
+			<OreGen>
+                <ore block="draconicevolution:draconium_ore" minHeight="1" maxHeight="32" clumpSize="8" chancePerChunk="10"/>
+            </OreGen>
+        </planet>
+	</star>
+</galaxy>

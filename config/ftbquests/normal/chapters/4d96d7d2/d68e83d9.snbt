@@ -1,0 +1,27 @@
+{
+	x: 0.5d,
+	y: -4.5d,
+	text: [
+		"Did you know you could connect your drawers (And chests) to your ME System?"
+	],
+	dependencies: [
+		"f7b4e0d5"
+	],
+	tasks: [{
+		uid: "f3fa0a3c",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 220"
+		}]
+	}],
+	rewards: [{
+		uid: "e058fe05",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "fd90eeed",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

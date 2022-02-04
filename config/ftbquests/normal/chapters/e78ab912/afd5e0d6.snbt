@@ -1,0 +1,36 @@
+{
+	title: "Ritual of Gaia",
+	x: 0.0d,
+	y: 1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"212e2f55"
+	],
+	tasks: [{
+		uid: "afce96eb",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	},
+	{
+		uid: "c146e225",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}],
+	rewards: [{
+		uid: "b1105118",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "1501ea9d",
+		type: "loot",
+		table: 0
+	}]
+}

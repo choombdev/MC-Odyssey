@@ -1,0 +1,24 @@
+{
+	x: -8.5d,
+	y: 0.5d,
+	dependencies: [
+		"97b7f3bd"
+	],
+	tasks: [{
+		uid: "bab8b512",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:gargantuanfluxstorage"
+		}]
+	}],
+	rewards: [{
+		uid: "9dc5456d",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "f8bf59c5",
+		type: "loot",
+		table: 0
+	}]
+}

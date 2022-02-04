@@ -1,0 +1,31 @@
+{
+	x: -10.5d,
+	y: -9.0d,
+	dependencies: [
+		"9b16bb5f"
+	],
+	tasks: [{
+		uid: "175d2bb8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:nether_quartz_seeds"
+		}]
+	},
+	{
+		uid: "e5807e41",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:glowstone_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "812e455e",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "c7ace24e",
+		type: "loot",
+		table: 0
+	}]
+}

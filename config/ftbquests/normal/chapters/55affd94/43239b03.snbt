@@ -1,0 +1,39 @@
+{
+	title: "Basic Transportation",
+	x: -5.5d,
+	y: 0.5d,
+	text: [
+		"Transporting Energy, Fluids and Items at first can be extremely slow but your friends here are Leadstone and Normal Fluiducts/Item Ducts"
+	],
+	tasks: [{
+		uid: "ac3123e8",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0"
+		}]
+	},
+	{
+		uid: "d0e0a4dc",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_32"
+		}]
+	},
+	{
+		uid: "ad5ae8c9",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_16"
+		}]
+	}],
+	rewards: [{
+		uid: "e8fa235a",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "a42fce0d",
+		type: "loot",
+		table: 1
+	}]
+}

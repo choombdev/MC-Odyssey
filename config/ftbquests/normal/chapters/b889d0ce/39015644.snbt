@@ -1,0 +1,14 @@
+{
+	x: -40.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "19d65e5d",
+		type: "checkmark",
+		title: "Furniture Mods!"
+	}],
+	rewards: [{
+		uid: "3ab63af3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

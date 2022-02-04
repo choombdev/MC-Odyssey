@@ -1,0 +1,29 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	dependencies: [
+		"ff214a4b"
+	],
+	tasks: [{
+		uid: "c7f4104c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:myrmex_desert_swarm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "39de4bb4",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "68dcb7b2",
+		type: "loot",
+		table: 0
+	}]
+}

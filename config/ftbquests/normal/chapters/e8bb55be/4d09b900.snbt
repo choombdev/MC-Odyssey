@@ -1,0 +1,30 @@
+{
+	x: -11.5d,
+	y: -5.5d,
+	dependencies: [
+		"085b9d92"
+	],
+	tasks: [{
+		uid: "1f5e5ff4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "simplyjetpacks:itemjetpack",
+			tag: {},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e572ffd1",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	},
+	{
+		uid: "8f24db65",
+		type: "loot",
+		table: 1
+	}]
+}

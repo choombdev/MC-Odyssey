@@ -1,0 +1,77 @@
+{
+	x: -9.0d,
+	y: 6.5d,
+	dependencies: [
+		"3d0f7267"
+	],
+	tasks: [{
+		uid: "c9e84b1e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 7
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "18a5deda",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 2
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "81c0b7b7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 0
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "a6f2b3c6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 1
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "7699be7d",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	},
+	{
+		uid: "c0cbc2a3",
+		type: "loot",
+		table: 1
+	}]
+}

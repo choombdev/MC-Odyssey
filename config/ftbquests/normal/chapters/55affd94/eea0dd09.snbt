@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	dependencies: [
+		"c9de4f65"
+	],
+	tasks: [{
+		uid: "72dcb244",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		}]
+	}],
+	rewards: [{
+		uid: "51cb3cdd",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

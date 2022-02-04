@@ -1,0 +1,24 @@
+{
+	x: -6.5d,
+	y: 3.0d,
+	dependencies: [
+		"13c7b9bd"
+	],
+	tasks: [{
+		uid: "3fb9e95b",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_vat"
+		}]
+	}],
+	rewards: [{
+		uid: "39532141",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	},
+	{
+		uid: "091d1ef0",
+		type: "loot",
+		table: 1
+	}]
+}

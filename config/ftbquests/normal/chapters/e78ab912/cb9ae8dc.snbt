@@ -1,0 +1,30 @@
+{
+	x: -15.0d,
+	y: -3.0d,
+	text: [
+		"The Fosic Resonator helps you find clusters of starlight in the wilderness."
+	],
+	dependencies: [
+		"95be995f"
+	],
+	tasks: [{
+		uid: "d73f2e89",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemskyresonator",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "418092e5",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -2.0d,
+	y: -6.5d,
+	tasks: [{
+		uid: "dfabf8b5",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_sword"
+		},
+		entity: "twilightforest:armored_giant",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0d2b89f8",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "70a2dd03",
+		type: "loot",
+		table: 0
+	}]
+}

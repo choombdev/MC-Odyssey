@@ -1,0 +1,23 @@
+{
+	x: -9.5d,
+	y: -7.0d,
+	text: [
+		"Honestly, If you play this modpack for two days straight, I love you."
+	],
+	tasks: [{
+		uid: "fa723775",
+		type: "stat",
+		stat: "stat.playOneMinute",
+		value: 3462000
+	}],
+	rewards: [{
+		uid: "30fcb683",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "75c49009",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

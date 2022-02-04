@@ -1,0 +1,63 @@
+{
+	title: "Flight without Flight",
+	x: -4.0d,
+	y: -2.5d,
+	text: [
+		"You don't need Creative Flight to fly yet, you can simply use this combination of items to gain flight."
+	],
+	tasks: [{
+		uid: "cea4ecfd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "SlimeSling",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any SlimeSling"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ed910214",
+		type: "item",
+		items: [{
+			item: "openblocks:hang_glider"
+		}]
+	},
+	{
+		uid: "40c95749",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "SlimeBoots",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any SlimeBoots"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "33ca1365",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	},
+	{
+		uid: "781a3020",
+		type: "loot",
+		table: 1
+	}]
+}

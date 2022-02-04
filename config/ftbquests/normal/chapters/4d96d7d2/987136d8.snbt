@@ -1,0 +1,52 @@
+{
+	title: "Wirelessly Accessing your ME System",
+	x: -1.0d,
+	y: -4.5d,
+	text: [
+		"These are the items you'll need to access your system wirelessly.",
+		"A transmitter, the terminal and the security terminal."
+	],
+	dependencies: [
+		"f7b4e0d5"
+	],
+	tasks: [{
+		uid: "dd3f370e",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:wireless_access_point"
+		}]
+	},
+	{
+		uid: "18105b0d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:security_station"
+		}]
+	},
+	{
+		uid: "67710b9f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:terminal.universal.wireless",
+			tag: {
+				type: 0b,
+				modules: 23b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84c0d07b",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "7cac67b4",
+		type: "ftbmoney:money",
+		ftb_money: 650L
+	}]
+}

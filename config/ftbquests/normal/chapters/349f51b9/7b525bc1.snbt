@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "01579c43",
+		type: "fluid",
+		fluid: "liquidethene",
+		amount: 10000000
+	}],
+	rewards: [{
+		uid: "e16cd548",
+		type: "ftbmoney:money",
+		ftb_money: 200000L
+	},
+	{
+		uid: "03ebc97d",
+		type: "loot",
+		table: 0
+	}]
+}

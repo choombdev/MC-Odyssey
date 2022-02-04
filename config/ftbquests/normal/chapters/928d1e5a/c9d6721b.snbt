@@ -1,0 +1,30 @@
+{
+	disable_toast: true,
+	x: -3.0d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "d8cf8528",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "bone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bone"
+				}
+			}
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "466c09ad",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

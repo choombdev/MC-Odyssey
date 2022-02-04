@@ -1,0 +1,53 @@
+{
+	title: "Backpack upgrades",
+	x: -8.0d,
+	y: -6.0d,
+	dependencies: [
+		"a54a3301"
+	],
+	tasks: [{
+		uid: "aa156d81",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 4"
+		}]
+	},
+	{
+		uid: "966291e3",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade"
+		}]
+	},
+	{
+		uid: "339b2876",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 1"
+		}]
+	},
+	{
+		uid: "6bc53dcf",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 2"
+		}]
+	},
+	{
+		uid: "8367640a",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "d0548306",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	},
+	{
+		uid: "49fed4b7",
+		type: "loot",
+		table: 0
+	}]
+}

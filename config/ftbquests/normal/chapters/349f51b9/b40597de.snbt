@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "c185282f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_ultimate"
+		}]
+	}],
+	rewards: [{
+		uid: "e556c267",
+		type: "ftbmoney:money",
+		ftb_money: 100000L
+	},
+	{
+		uid: "477b6297",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "977512d6",
+		type: "loot",
+		table: 0
+	}]
+}

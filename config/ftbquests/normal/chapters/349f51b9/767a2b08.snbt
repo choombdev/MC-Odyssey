@@ -1,0 +1,33 @@
+{
+	x: -10.5d,
+	y: -7.0d,
+	text: [
+		"Ten days? Seriously?"
+	],
+	dependencies: [
+		"3fe7d612"
+	],
+	hide: true,
+	tasks: [{
+		uid: "66a62202",
+		type: "stat",
+		title: "You're mad",
+		stat: "stat.playOneMinute",
+		value: 17286000
+	}],
+	rewards: [{
+		uid: "9162f5b8",
+		type: "ftbmoney:money",
+		ftb_money: 1000000L
+	},
+	{
+		uid: "09515270",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "3b41c9dd",
+		type: "loot",
+		table: 0
+	}]
+}

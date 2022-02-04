@@ -1,0 +1,25 @@
+{
+	title: "Waystones",
+	x: -11.5d,
+	y: -2.5d,
+	text: [
+		"Waystones are a smart way of transportation, they'll help you easily go from one place to another at the cost of experience."
+	],
+	tasks: [{
+		uid: "5448884b",
+		type: "item",
+		items: [{
+			item: "waystones:waystone"
+		}]
+	}],
+	rewards: [{
+		uid: "3f64d109",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "4332a0c7",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	}]
+}

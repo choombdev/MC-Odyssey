@@ -1,0 +1,24 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	dependencies: [
+		"a63148ae"
+	],
+	tasks: [{
+		uid: "6df64908",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_7"
+		}]
+	}],
+	rewards: [{
+		uid: "20edce74",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "483926c2",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	}]
+}

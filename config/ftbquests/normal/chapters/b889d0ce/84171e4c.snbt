@@ -1,0 +1,21 @@
+{
+	x: -41.5d,
+	y: 1.5d,
+	dependencies: [
+		"39015644"
+	],
+	tasks: [{
+		uid: "8e96e789",
+		type: "item",
+		items: [{
+			item: "fairylights:light"
+		}]
+	},
+	{
+		uid: "33b7c593",
+		type: "item",
+		items: [{
+			item: "literalascension:minecraft/oak_stepladder"
+		}]
+	}]
+}

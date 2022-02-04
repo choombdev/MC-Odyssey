@@ -1,0 +1,26 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "iceandfire:hydra_heart"
+	},
+	x: -6.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "f874b2b8",
+		type: "kill",
+		entity: "iceandfire:if_hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "118dfdf0",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	},
+	{
+		uid: "4ab0f955",
+		type: "loot",
+		table: 0
+	}]
+}

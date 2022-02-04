@@ -1,0 +1,29 @@
+{
+	x: -7.5d,
+	y: -2.5d,
+	dependencies: [
+		"89cb9e22"
+	],
+	tasks: [{
+		uid: "db6f5816",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_stellar_alloy_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9a455b6a",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "0e72c176",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

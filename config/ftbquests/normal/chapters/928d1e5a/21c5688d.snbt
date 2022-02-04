@@ -1,0 +1,18 @@
+{
+	disable_toast: true,
+	x: -19.0d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "bd02349c",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "189ee43f",
+		type: "ftbmoney:money",
+		ftb_money: 500000L
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	x: -9.0d,
+	y: -2.5d,
+	description: "Wish I had a Portal Gun",
+	text: [
+		"What is there to be said? It's a portal gun!"
+	],
+	tasks: [{
+		uid: "e59a2f46",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "portalgun:item_portalgun",
+			tag: {
+				lastFired: 1b,
+				width: 1,
+				channelName: "Chell",
+				grabStrength: 4,
+				uuid: "Global",
+				username: "Global",
+				height: 2
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a92dc2ac",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	},
+	{
+		uid: "17f71ec3",
+		type: "loot",
+		table: 0
+	}]
+}

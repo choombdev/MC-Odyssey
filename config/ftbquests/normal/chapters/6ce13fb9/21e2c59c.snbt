@@ -1,0 +1,21 @@
+{
+	x: -0.5d,
+	y: 3.5d,
+	dependencies: [
+		"ab6a7127",
+		"4a29fb2c",
+		"3007b29d"
+	],
+	tasks: [{
+		uid: "95e45e29",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:chemicalreactor"
+		}]
+	}],
+	rewards: [{
+		uid: "08b35783",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	}]
+}

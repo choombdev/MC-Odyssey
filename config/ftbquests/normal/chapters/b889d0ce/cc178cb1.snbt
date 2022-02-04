@@ -1,0 +1,59 @@
+{
+	title: "Kitchen",
+	x: -37.5d,
+	y: 1.0d,
+	text: [
+		"Building your own kitchen is sure fun."
+	],
+	tasks: [{
+		uid: "cc27d739",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:oven"
+		}]
+	},
+	{
+		uid: "bcdffa06",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cookingforblockheads:recipe_book",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c7f184d2",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cooking_table"
+		}]
+	},
+	{
+		uid: "666043ab",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:fridge"
+		}],
+		count: 2L
+	},
+	{
+		uid: "27608ebe",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:toaster"
+		}]
+	}],
+	rewards: [{
+		uid: "be601690",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "7465cc26",
+		type: "loot",
+		table: 0
+	}]
+}

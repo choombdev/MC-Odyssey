@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	tasks: [{
+		uid: "21968b32",
+		type: "item",
+		items: [{
+			item: "powersuits:tinkertable"
+		}]
+	}],
+	rewards: [{
+		uid: "810b9530",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	},
+	{
+		uid: "f15ef516",
+		type: "loot",
+		table: 1
+	}]
+}

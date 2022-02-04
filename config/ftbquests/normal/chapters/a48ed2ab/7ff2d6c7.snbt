@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: -3.0d,
+	dependencies: [
+		"bc43cbba"
+	],
+	tasks: [{
+		uid: "244ecdfd",
+		type: "item",
+		items: [{
+			item: "enderio:item_endergy_conduit 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "80481de1",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "60526290",
+		type: "loot",
+		table: 1
+	}]
+}

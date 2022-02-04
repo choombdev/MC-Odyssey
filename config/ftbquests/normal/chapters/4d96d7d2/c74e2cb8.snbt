@@ -1,0 +1,35 @@
+{
+	title: "Barrel Upgrades",
+	x: -9.5d,
+	y: -2.0d,
+	dependencies: [
+		"db380e08"
+	],
+	tasks: [{
+		uid: "5ad36cf2",
+		type: "item",
+		items: [{
+			item: "yabba:upgrade_blank"
+		}]
+	},
+	{
+		uid: "05107f0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:upgrade_star_tier"
+		}]
+	}],
+	rewards: [{
+		uid: "f8448b16",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "18e9d9d7",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

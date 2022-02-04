@@ -1,0 +1,26 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fed8d096",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:cyclops_skull"
+		},
+		entity: "iceandfire:cyclops",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4e4a36f7",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	},
+	{
+		uid: "3a8ec1ea",
+		type: "loot",
+		table: 0
+	}]
+}

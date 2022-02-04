@@ -1,0 +1,31 @@
+{
+	x: 2.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "8c5fbf2c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "powersuits:powerarmor_legs",
+			tag: {
+				MMModItem: {
+					commonValues: {}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "45a69da4",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "f4e1a360",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	x: -4.0d,
+	y: -4.0d,
+	text: [
+		"No, the free runners dont make you run faster."
+	],
+	tasks: [{
+		uid: "60af9e2f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:freerunners"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7c4a9782",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:scubatank"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "91447898",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	},
+	{
+		uid: "0f727bd8",
+		type: "loot",
+		table: 1
+	}]
+}

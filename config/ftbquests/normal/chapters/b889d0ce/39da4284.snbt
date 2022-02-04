@@ -1,0 +1,34 @@
+{
+	x: -30.0d,
+	y: 3.0d,
+	text: [
+		"What can I say? Mom's Spaghetti",
+		"",
+		"Remember to add a mending book to it to repair it later."
+	],
+	dependencies: [
+		"bd60e519"
+	],
+	tasks: [{
+		uid: "e996d8cf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:moms_spaghetti"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ba5cb84d",
+		type: "ftbmoney:money",
+		ftb_money: 750L
+	},
+	{
+		uid: "d17cf0ac",
+		type: "loot",
+		table: 0
+	}]
+}

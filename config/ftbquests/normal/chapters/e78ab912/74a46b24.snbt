@@ -1,0 +1,28 @@
+{
+	title: "Astral Sorcery",
+	x: -11.0d,
+	y: -3.5d,
+	text: [
+		"Get you an Astral Tome and try to find one of Astral Sorcery's large temples (If you find small ones, try to find chests beneath to get scrolls!) and mine underneath",
+		"to find the Floating Crystal.",
+		"",
+		"Place a crafting table and craft a resonating wand!"
+	],
+	tasks: [{
+		uid: "f52dbaa0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "db656bc2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

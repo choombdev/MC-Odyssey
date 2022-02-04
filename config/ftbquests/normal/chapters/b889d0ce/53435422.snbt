@@ -1,0 +1,21 @@
+{
+	x: -40.5d,
+	y: 2.5d,
+	dependencies: [
+		"39015644"
+	],
+	tasks: [{
+		uid: "86acc4ac",
+		type: "item",
+		items: [{
+			item: "cfm:table_oak"
+		}]
+	},
+	{
+		uid: "c665c8a6",
+		type: "item",
+		items: [{
+			item: "cfm:chair_oak"
+		}]
+	}]
+}

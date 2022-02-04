@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "5ef1503f",
+		type: "item",
+		items: [{
+			item: "excompressum:auto_hammer"
+		}]
+	}],
+	rewards: [{
+		uid: "73bfa3c8",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

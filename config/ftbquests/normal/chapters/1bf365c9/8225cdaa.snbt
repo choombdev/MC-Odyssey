@@ -1,0 +1,29 @@
+{
+	x: -9.5d,
+	y: 1.0d,
+	dependencies: [
+		"b0b75fa0"
+	],
+	tasks: [{
+		uid: "896f5dc4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mowziesmobs:earth_talisman"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ebc8f076",
+		type: "ftbmoney:money",
+		ftb_money: 30000L
+	},
+	{
+		uid: "06125172",
+		type: "loot",
+		table: 0
+	}]
+}

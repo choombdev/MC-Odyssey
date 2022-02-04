@@ -1,0 +1,36 @@
+{
+	title: "Laser Miner",
+	x: -10.5d,
+	y: 1.5d,
+	text: [
+		"Yet another ore gathering machine"
+	],
+	dependencies: [
+		"0cb5a093"
+	],
+	tasks: [{
+		uid: "ba73e1bb",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_drill"
+		}],
+		count: 4L
+	},
+	{
+		uid: "ef5dd62e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_base"
+		}]
+	}],
+	rewards: [{
+		uid: "80288778",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	},
+	{
+		uid: "99096074",
+		type: "loot",
+		table: 1
+	}]
+}

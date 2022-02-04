@@ -1,0 +1,33 @@
+{
+	title: "Ender Storage",
+	x: -4.0d,
+	y: -3.0d,
+	text: [
+		"Ender storage is basically wireless storage that everyone can access.",
+		"These ender chests aren't private but shared as you can basically direct all your farms' output into one place using it."
+	],
+	tasks: [{
+		uid: "d90e18e7",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}]
+	},
+	{
+		uid: "18783443",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "c268c38a",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "a44226a3",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}
