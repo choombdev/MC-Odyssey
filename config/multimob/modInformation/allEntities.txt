@@ -344,13 +344,13 @@ draconicevolution:lootcore
 draconicevolution:enderenergymanipulator
 thermalexpansion:florb
 thermalexpansion:morb
-quark:gravisand
 quark:seat
+quark:chest_passenger
+quark:gravisand
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
 quark:glass_item_frame
-quark:totem_of_holding
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -359,7 +359,7 @@ quark:ashen
 quark:pirate
 quark:crab
 quark:wraith
-quark:chest_passenger
+quark:totem_of_holding
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -783,9 +783,9 @@ twilightforest:cube_of_annihilation
 twilightforest:slider
 twilightforest:boggard
 twilightforest:rising_zombie
+enderio:falling_machine
 enderio:primed_charge
 enderio:owl_egg
-enderio:falling_machine
 tconstruct:blueslime
 tconstruct:indestructible
 tconstruct:arrow

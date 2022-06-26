@@ -9,9 +9,6 @@ var num as int = 0;
 		if (isNull(recipe.input) || isNull(recipe.output)) {
 			continue;
 		}
-		if (recipe.input != "0xtile.air@0") {
-			continue;
-		}
 		RecipeBuilder.newBuilder(machine + "_recipenumber" + num, machine, 1)
 			.addEnergyPerTickInput(5000)
 			.addItemInput(recipe.input)

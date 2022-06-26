@@ -386,6 +386,7 @@
   "advancedrocketry": "1.12.2-2.0.0-13",
   "justsleep": "1.0.0.1",
   "energyconverters": "1.3.7.30",
+  "bountiful": "2.2.2",
   "teslacorelib_registries": "1.0.18",
   "actuallyadditions": "1.12.2-r152",
   "roguelike": "1.8.0",
