@@ -27,10 +27,6 @@ recipes.addShaped(<minecraft:porkchop> * 4, [[null, <minecraft:dirt>, null],[<mi
 // Turning Ore Wood into Wood
 recipes.addShaped(<minecraft:planks> * 2, [[null, null, null],[<minecraft:planks>, <ore:plankWood>, null], [null, null, null]]);
 
-// Mystical World
-<ore:ingotCopper>.add(<mysticalworld:copper_ingot>);
-<ore:ingotSilver>.add(<mysticalworld:silver_ingot>);
-
 // Dragon Scale
 val dragonscales = <ore:scaleDragon>;
 dragonscales.add(<mysticalagradditions:stuff:3>);

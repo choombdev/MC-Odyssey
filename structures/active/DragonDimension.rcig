@@ -1,0 +1,400 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "DragonDimension",
+  "items": [
+    {
+      "weight": 0.0403180830180645,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "mysticalagradditions:dragon_egg_essence",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "deepmoblearning:glitch_infused_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "bloodarsenal:blood_diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "nuclearcraft:rtg_californium",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tombstone:impregnated_diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 14,
+      "item": {
+        "id": "jaopca:item_clumpdraconium",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 1,
+      "max": 25,
+      "item": {
+        "id": "minecraft:diamond_block",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 2.7249209880828857,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "woot:shard",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.1894346475601196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "botania:elementiumchest",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderio:item_end_steel_sword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "enderio.darksteel.upgrade.travel": {
+              "nbtType": "compound",
+              "nbt": {
+                "level": {
+                  "nbtType": "int",
+                  "nbt": 0
+                }
+              }
+            },
+            "enderio.darksteel.upgrade.direct": {
+              "nbtType": "compound",
+              "nbt": {
+                "level": {
+                  "nbtType": "int",
+                  "nbt": 0
+                }
+              }
+            },
+            "enderio.darksteel.upgrade.energyUpgrade": {
+              "nbtType": "compound",
+              "nbt": {
+                "level": {
+                  "nbtType": "int",
+                  "nbt": 4
+                },
+                "energy": {
+                  "nbtType": "int",
+                  "nbt": 2500000
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.763644814491272,
+      "min": 1,
+      "max": 9,
+      "item": {
+        "id": "iceandfire:dragonsteel_fire_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 4.333380699157715,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "advgenerators:turbine_kit_steel",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketobsidianskull",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bewitchment:hellish_bauble",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketluckyhorseshoe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.fire_resistance.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "mod_lavacow:potion_of_mooten_lava",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 15,
+      "max": 64,
+      "item": {
+        "id": "xreliquary:potion_essence",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "effects": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "duration": {
+                      "nbtType": "int",
+                      "nbt": 750
+                    },
+                    "potency": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "minecraft:fire_resistance"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "woot:shard",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:end_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.002661055652424693,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "avaritia:resource",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:material",
+        "damage": 167,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "enderio:item_material",
+        "damage": 39,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderio:item_material",
+        "damage": 58,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "thermalfoundation:upgrade",
+        "damage": 35,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvableskills:scroll_normal",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Skill": {
+              "nbtType": "string",
+              "nbt": "improvableskills:enchanter"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvableskills:scroll_normal",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Skill": {
+              "nbtType": "string",
+              "nbt": "improvableskills:obsidian_skin"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvableskills:scroll_normal",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Skill": {
+              "nbtType": "string",
+              "nbt": "improvableskills:health"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

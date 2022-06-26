@@ -26,7 +26,6 @@ minecraft:levitation
 minecraft:luck
 minecraft:unluck
 biomesoplenty:curse
-birdsfoods:fullness
 randomthings:imbue_fire
 randomthings:imbue_poison
 randomthings:imbue_experience
@@ -207,17 +206,6 @@ immersiveintelligence:undergoing_repairs
 immersiveintelligence:radiation
 immersiveintelligence:nuclear_heat
 immersiveintelligence:movement_assist
-roots:storm_cloud
-roots:geas
-roots:time_stop
-roots:nondetection
-roots:petal_shell
-roots:danger_sense
-roots:animal_sense
-roots:reach
-roots:bleeding
-roots:aqua_bubble
-roots:slow_fall
 aether_legacy:inebriation
 apotheosis:sundering
 apotheosis:knowledge
