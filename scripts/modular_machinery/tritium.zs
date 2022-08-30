@@ -1,4 +1,4 @@
-# This script was created by Choomb/YahiaTGF for MC Odyssey, using it in your own modpack is not allowed without permission.,
+# This script was created by choombdev for MC Odyssey, using it in your own modpack is not allowed without permission.
 
 import mods.modularmachinery.RecipePrimer;
 import mods.modularmachinery.RecipeBuilder;

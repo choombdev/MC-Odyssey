@@ -1,5 +1,6 @@
 {
 	title: "True Odysser",
+	icon: "minecraft:clock",
 	x: -4.0d,
 	y: -10.0d,
 	text: [

@@ -2,7 +2,7 @@ import crafttweaker.item.IItemStack;
 import mods.modularmachinery.RecipePrimer;
 import mods.modularmachinery.RecipeBuilder;
 
-# This script was created by Choomb/YahiaTGF for MC Odyssey", using it in your own modpack is not allowed without permission.",
+# This script was created by choombdev for MC Odyssey, using it in your own modpack is not allowed without permission.
 
 print("Started Machines/cloche.zs");
 
@@ -146,6 +146,11 @@ zinc_essence : "zinc_seeds",
 zombie_essence : "zombie_seeds"
 } as string[string];
 	for name, item in MystAgr {
+		if (isNull(itemUtils.getItem("mysticalagriculture:"+ name)) || isNull(itemUtils.getItem("mysticalagriculture:"+ item))) {
+        continue;	
+    }
+		if ((itemUtils.getItem("mysticalagriculture:"+ name)).isEmpty || (itemUtils.getItem("mysticalagriculture:"+ item)).isEmpty) {
+        continue;}
 		var seed = itemUtils.getItem("mysticalagriculture:"+ item);
 		var essence = itemUtils.getItem("mysticalagriculture:"+ name);
 		RecipeBuilder.newBuilder(machine + "_recipenumber" + num, machine, 100)
@@ -202,6 +207,10 @@ recipes.addShaped(<mysticalagradditions:special:4>, [[<extendedcrafting:storage:
 
 
 	for name, item in MystAgrad {
+		if (isNull(itemUtils.getItem("mysticalagradditions:"+ name)) || isNull(itemUtils.getItem("mysticalagradditions:"+ item))) {
+        continue;}
+		if ((itemUtils.getItem("mysticalagradditions:"+ name).isEmpty) || (itemUtils.getItem("mysticalagradditions:"+ item)).isEmpty) {
+        continue;}
 		var seedAg = itemUtils.getItem("mysticalagradditions:"+item);
 		var essenceAg = itemUtils.getItem("mysticalagradditions:"+name);
 		RecipeBuilder.newBuilder("agradmachine" + "_Agradrecipenumber" + numAgrad, "agradmachine", 100)

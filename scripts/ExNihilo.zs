@@ -2,7 +2,7 @@ import mods.exnihilocreatio.Hammer;
 import mods.exnihilocreatio.Sieve;
 import mods.exnihilocreatio.Heat;
 
-# This script was created by Choomb/YahiaTGF for MC Odyssey, using it in your own modpack is not allowed without permission.
+# This script was created by choombdev for MC Odyssey, using it in your own modpack is not allowed without permission.,
 
 print("started ExNihilo.zs");
 
@@ -42,7 +42,7 @@ mods.exnihilocreatio.Hammer.addRecipe(<appliedenergistics2:sky_stone_block>, <ex
 
 
 // # Sieve Additions - Diamond
-Sieve.addDiamondMeshRecipe(<mysticalagradditions:storage:1>, <jaopca:item_hunkancientdebris>, 0.75);
+Sieve.addDiamondMeshRecipe(<mysticalagradditions:storage:1>, <jaopca:mekanism_crystal.ancient_debris>, 0.75);
 
 
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_endstone_crushed>, <exnihilocreatio:item_ore_thorium>, 0.25);
@@ -51,7 +51,7 @@ Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_endstone_crushed>, <exnihilocr
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_endstone_crushed>, <exnihilocreatio:item_ore_magnesium>, 0.25);
 
 
-Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <jaopca:item_dustdimensionalshard>, 0.20);
+Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <jaopca:dust.dimensional_shard>, 0.20);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <exnihilocreatio:item_ore_cobalt>, 0.40);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <exnihilocreatio:item_ore_ardite>, 0.40);
 
@@ -77,7 +77,6 @@ Sieve.addDiamondMeshRecipe(<minecraft:gravel>,<minecraft:clay_ball>, 0.9);
 
 Sieve.addDiamondMeshRecipe(<minecraft:sand>,<actuallyadditions:item_misc:5>, 0.6);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>,<astralsorcery:itemcraftingcomponent:2>, 0.6);
-Sieve.addDiamondMeshRecipe(<minecraft:sand>,<jaopca:item_dustapatite>, 0.6);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>,<techreborn:dust:6>, 0.5);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>,<techreborn:dust:4>, 0.5);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>,<techreborn:dust:5>, 0.5);
@@ -99,7 +98,7 @@ Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<minecraft:glowstone_dus
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<exnihilocreatio:item_ore_platinum>, 0.09);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<exnihilocreatio:item_ore_titanium>, 0.2);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<exnihilocreatio:item_ore_yellorium>, 0.3);
-Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<jaopca:item_piecemithril>, 0.5);
+Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<jaopca:mekanism_crystal.mithril>, 0.5);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<mysticalagriculture:crafting>, 0.6);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<minecraft:dye:4>, 0.6);
 
@@ -110,7 +109,7 @@ Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>,<minecraft:dye:4>, 0.6);
 // # Sieve Additions - Iron
 
 
-Sieve.addIronMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <jaopca:item_dustdimensionalshard>, 0.10);
+Sieve.addIronMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <jaopca:dust.dimensional_shard>, 0.10);
 Sieve.addIronMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <exnihilocreatio:item_ore_cobalt>, 0.30);
 Sieve.addIronMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <exnihilocreatio:item_ore_ardite>, 0.30);
 
@@ -133,7 +132,6 @@ Sieve.addIronMeshRecipe(<minecraft:gravel>,<minecraft:clay_ball>, 0.6);
 
 Sieve.addIronMeshRecipe(<minecraft:sand>,<actuallyadditions:item_misc:5>, 0.2);
 Sieve.addIronMeshRecipe(<minecraft:sand>,<astralsorcery:itemcraftingcomponent:2>, 0.1);
-Sieve.addIronMeshRecipe(<minecraft:sand>,<jaopca:item_dustapatite>, 0.2);
 Sieve.addIronMeshRecipe(<minecraft:sand>,<thaumcraft:amber>, 0.1);
 Sieve.addIronMeshRecipe(<minecraft:sand>,<appliedenergistics2:material:45>, 0.4);
 Sieve.addIronMeshRecipe(<minecraft:sand>,<minecraft:redstone>, 0.2);
@@ -148,7 +146,7 @@ Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<minecraft:dye:15>, 0.7);
 Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<mysticalagriculture:crafting:5>, 0.6);
 Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<appliedenergistics2:material>, 0.5);
 Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<minecraft:glowstone_dust>, 0.4);
-Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<jaopca:item_piecemithril>, 0.2);
+Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<jaopca:mekanism_crystal.mithril>, 0.2);
 Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<mysticalagriculture:crafting>, 0.5);
 Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<minecraft:dye:4>, 0.6);
 
@@ -157,7 +155,7 @@ Sieve.addIronMeshRecipe(<exnihilocreatio:block_dust>,<minecraft:dye:4>, 0.6);
 // # Sieve Additions - Flint
 Sieve.addFlintMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <exnihilocreatio:item_ore_cobalt>, 0.10);
 Sieve.addFlintMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <exnihilocreatio:item_ore_ardite>, 0.10);
-Sieve.addFlintMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <jaopca:item_dustdimensionalshard>, 0.05);
+Sieve.addFlintMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <jaopca:dust.dimensional_shard>, 0.05);
 
 Sieve.addFlintMeshRecipe(<minecraft:soul_sand>, <minecraft:quartz>, 0.35);
 Sieve.addFlintMeshRecipe(<minecraft:soul_sand>, <minecraft:netherbrick>, 0.10);
@@ -177,7 +175,6 @@ Sieve.addFlintMeshRecipe(<minecraft:gravel>,<minecraft:clay_ball>, 0.6);
 
 
 Sieve.addFlintMeshRecipe(<minecraft:sand>,<actuallyadditions:item_misc:5>, 0.2);
-Sieve.addFlintMeshRecipe(<minecraft:sand>,<jaopca:item_dustapatite>, 0.1);
 Sieve.addFlintMeshRecipe(<minecraft:sand>,<thaumcraft:amber>, 0.1);
 Sieve.addFlintMeshRecipe(<minecraft:sand>,<minecraft:redstone>, 0.1);
 Sieve.addFlintMeshRecipe(<minecraft:sand>,<minecraft:prismarine_shard>, 0.05);
@@ -206,7 +203,6 @@ Sieve.addStringMeshRecipe(<minecraft:gravel>,<minecraft:flint>, 0.07);
 Sieve.addStringMeshRecipe(<minecraft:gravel>,<minecraft:coal>, 0.06);
 Sieve.addStringMeshRecipe(<minecraft:gravel>,<minecraft:clay_ball>, 0.06);
 
-Sieve.addStringMeshRecipe(<minecraft:sand>,<jaopca:item_dustapatite>, 0.06);
 Sieve.addStringMeshRecipe(<minecraft:sand>,<thaumcraft:amber>, 0.03);
 Sieve.addStringMeshRecipe(<minecraft:sand>,<minecraft:redstone>, 0.05);
 Sieve.addStringMeshRecipe(<minecraft:sand>,<exnihilocreatio:item_material:3>, 0.07);

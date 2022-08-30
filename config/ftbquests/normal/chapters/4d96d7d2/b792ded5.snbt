@@ -12,7 +12,8 @@
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
 			id: "chesttransporter:chesttransporter_diamond",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

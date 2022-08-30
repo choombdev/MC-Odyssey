@@ -33,13 +33,7 @@ key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
 key_Change Caster Focus:33:NONE
 key_Misc Caster Toggle:34:NONE
-key_key.craftpresence.config_keycode.name:27:NONE
 key_keybind.baublesinventory:48:NONE
-key_roots.keybinds.pouch:0:NONE
-key_roots.keybinds.quiver:0:NONE
-key_roots.keybinds.spell_library:37:NONE
-key_roots.keybinds.cycle:0:NONE
-key_roots.keybinds.delete_spell:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -58,13 +52,13 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
 key_quark.keybind.changeHotbar:44:NONE
 key_quark.keybind.chestSort:0:NONE
 key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_pe.key.armor_toggle:45:NONE
 key_pe.key.charge:47:NONE
 key_pe.key.extra_function:46:NONE
@@ -93,6 +87,10 @@ key_key.ebwizardry.spell_5:6:ALT
 key_key.ebwizardry.spell_6:7:ALT
 key_key.ebwizardry.spell_7:8:ALT
 key_key.ebwizardry.spell_8:9:ALT
+key_key.erebus.glide:34:NONE
+key_key.erebus.poweredglide:35:NONE
+key_key.erebus.beetleram:19:NONE
+key_key.erebus.beetlemine:56:NONE
 key_key.exchangers.open_gui:51:NONE
 key_key.exchangers.range_switch:0:NONE
 key_key.exchangers.mode_switch:0:NONE
@@ -118,9 +116,17 @@ key_psimisc.keybind:46:NONE
 key_openblocks.keybind.vario_switch:47:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
-key_oreexcavation.key.excavate:184:NONE
+key_oreexcavation.key.excavate:-96:NONE
 key_oreexcavation.key.shape:47:NONE
 key_key.toastcontrol.clear:36:NONE
+key_vc.key.moveForward:17:NONE
+key_vc.key.moveBack:31:NONE
+key_vc.key.moveLeft:30:NONE
+key_vc.key.moveRight:32:NONE
+key_vc.key.moveUp:57:NONE
+key_vc.key.moveDown:45:NONE
+key_vc.key.openInventory:19:NONE
+key_vc.key.dropbomb:46:NONE
 key_key.wings.fly:19:NONE
 key_key.open_wct.desc:0:NONE
 key_key.cycle_magnet_mode.desc:0:NONE
@@ -140,6 +146,15 @@ key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
 key_nei.options.keys.gui.botania_corporea_request:46:NONE
+key_key.draconicevolution.placeItem:25:NONE
+key_key.draconicevolution.toolConfig:46:NONE
+key_key.draconicevolution.toolProfileChange:43:NONE
+key_key.draconicevolution.armorProfileChange:43:ALT
+key_key.draconicevolution.toggleFlight:0:NONE
+key_key.draconicevolution.toggleDislocator:0:NONE
+key_key.draconicevolution.cycleDigAOE:0:NONE
+key_key.draconicevolution.cycleAttackAOE:0:NONE
+key_key.draconicevolution.toggleShields:0:NONE
 key_tombstone.message.knowledge_of_death:0:NONE
 key_key.toggleLiquids:38:NONE
 key_key.toggleVisible:0:NONE
@@ -213,6 +228,8 @@ key_mod.chiselsandbits.other.undo:0:NONE
 key_mod.chiselsandbits.other.redo:0:NONE
 key_mod.chiselsandbits.other.add_to_clipboard:0:NONE
 key_Options Gui:23:NONE
+key_key.clienttweaks.disable_step_assist:0:NONE
+key_key.clienttweaks.hide_offhand_item:0:NONE
 key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
 key_key.craftingtweaks.balance:0:NONE
@@ -228,6 +245,8 @@ key_key.craftingtweaks.decompressStack:0:NONE
 key_key.craftingtweaks.decompressAll:0:NONE
 key_key.craftingtweaks.refill_last:15:NONE
 key_key.craftingtweaks.refill_last_stack:15:NONE
+key_key.overload:33:SHIFT
+key_key.chaosInjection:34:SHIFT
 key_mekanism.key.mode:50:NONE
 key_mekanism.key.armorMode:34:NONE
 key_mekanism.key.feetMode:35:NONE
@@ -247,6 +266,11 @@ key_FpsReducer.key.forceIdle:197:NONE
 key_Open Backpack:48:NONE
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
+key_key.integratedterminals.terminal.tab.next:15:NONE
+key_key.integratedterminals.terminal.tab.previous:15:SHIFT
+key_key.integratedterminals.terminal.craftinggrid.clearplayer:46:NONE
+key_key.integratedterminals.terminal.craftinggrid.clearstorage:46:SHIFT
+key_key.integratedterminals.terminal.craftinggrid.balance:48:NONE
 key_key.porterNextDestination:27:NONE
 key_key.porterPrevDestination:26:NONE
 key_key.debugDumpNBTItem:0:NONE
@@ -277,6 +301,9 @@ key_key.plustic_brown_magic.desc:24:NONE
 key_key.plustic_toggle_tool.desc:51:ALT
 key_key.plustic_fruit_salad.desc:12:ALT
 key_key.plustic_mots.desc:13:ALT
+key_pi.key.open_pi:23:NONE
+key_pi.key.et_gui:23:NONE
+key_pi.key.et_world:23:CONTROL
 key_xreliquary.keybind.fortune_coin:0:NONE
 key_key.taiga.alt_action:29:NONE
 key_key.carpet_forward:17:NONE
@@ -287,6 +314,10 @@ key_key.toolbelt.cycle.right:0:NONE
 key_key.toolbelt.slot:47:NONE
 key_Speak:47:NONE
 key_Gliby's Options Menu:52:NONE
+key_key.immersiveintelligence.manualReload:19:NONE
+key_key.immersiveintelligence.mgScope:44:NONE
+key_key.immersiveintelligence.motorbikeEngine:19:NONE
+key_key.immersiveintelligence.motorbikeTowing:44:NONE
 key_Toggle Jetpack:45:NONE
 key_Open Rocket GUI:46:NONE
 key_Toggle RCS:19:NONE
@@ -311,7 +342,6 @@ key_key.journeymap.fullscreen.south:208:NONE
 key_key.journeymap.fullscreen.east:205:NONE
 key_key.journeymap.fullscreen.west:203:NONE
 key_key.control:29:NONE
-key_Open Skill GUI:21:NONE
 key_Profile GUI:210:NONE
 key_enderio.keybind.inventory:23:NONE
 key_enderio.keybind.dsu:0:NONE
@@ -334,3 +364,4 @@ key_enderio.keybind.fovplus:0:NONE
 key_enderio.keybind.fovminus:0:NONE
 key_enderio.keybind.fovplusfast:0:NONE
 key_enderio.keybind.fovminusfast:0:NONE
+key_key.craftpresence.config_keycode.name:209:NONE

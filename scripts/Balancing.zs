@@ -1,12 +1,12 @@
 import mods.exnihilocreatio.Sieve;
 
-# This script was created by Choomb/YahiaTGF for MC Odyssey, using it in your own modpack is not allowed without permission.
+# This script was created by choombdev for MC Odyssey, using it in your own modpack is not allowed without permission.,
 
 print("started Balancing.zs");
 
 // #RFTools Dimensions
 recipes.remove(<rftoolsdim:dimension_builder>);
-recipes.addShaped(<rftoolsdim:dimension_builder>, [[<futuremc:netherite_block>, <jaopca:block_blockdimensionalshard>, <futuremc:netherite_block>],[<jaopca:block_blockdimensionalshard>, <extrautils2:opinium:8>, <jaopca:block_blockdimensionalshard>], [<futuremc:netherite_block>, <jaopca:block_blockdimensionalshard>, <futuremc:netherite_block>]]);
+recipes.addShaped(<rftoolsdim:dimension_builder>, [[<futuremc:netherite_block>, <jaopca:block.dimensional_shard>, <futuremc:netherite_block>],[<jaopca:block.dimensional_shard>, <extrautils2:opinium:8>, <jaopca:block.dimensional_shard>], [<futuremc:netherite_block>, <jaopca:block.dimensional_shard>, <futuremc:netherite_block>]]);
 
 // # Planet Disabling
 recipes.remove(<erebus:gaean_keystone>);
@@ -86,7 +86,7 @@ recipes.addShaped(<extrautils2:opinium:8>, [[null, <extrautils2:opinium:7>, null
 
 // #Gun
 recipes.remove(<xreliquary:handgun>);
-recipes.addShaped(<xreliquary:handgun>, [[<xreliquary:gun_part:1>, <futuremc:netherite_ingot>, <futuremc:netherite_ingot>],[null, <jaopca:item_gearenderbiotite>, <xreliquary:gun_part:2>], [null, <xreliquary:gun_part>, null]]);
+recipes.addShaped(<xreliquary:handgun>, [[<xreliquary:gun_part:1>, <futuremc:netherite_ingot>, <futuremc:netherite_ingot>],[null, <jaopca:dust.ender_biotite>, <xreliquary:gun_part:2>], [null, <xreliquary:gun_part>, null]]);
 
 // # Warp stone
 recipes.remove(<waystones:warp_stone>);
@@ -102,7 +102,7 @@ recipes.remove(<deepmoblearning:soot_covered_plate>);
 recipes.remove(<deepmoblearning:simulation_chamber>);
 recipes.addShaped(<deepmoblearning:data_model_dragon>, [[<avaritia:block_resource>, <environmentaltech:ionite>, <avaritia:block_resource>],[<environmentaltech:ionite>, <deepmoblearning:data_model_blank>, <environmentaltech:ionite>], [<avaritia:block_resource>, <environmentaltech:ionite>, <avaritia:block_resource>]]);
 recipes.addShaped(<deepmoblearning:data_model_wither>, [[<futuremc:netherite_ingot>, <extendedcrafting:storage:2>, <futuremc:netherite_ingot>],[<extendedcrafting:storage:2>, <deepmoblearning:data_model_blank>, <extendedcrafting:storage:2>], [<futuremc:netherite_ingot>, <extendedcrafting:storage:2>, <futuremc:netherite_ingot>]]);
-recipes.addShaped(<deepmoblearning:soot_covered_plate>, [[<deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>],[<jaopca:item_platedenseenderbiotite>, <jaopca:item_platedenseenderbiotite>, <jaopca:item_platedenseenderbiotite>], [<deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>]]);
+recipes.addShaped(<deepmoblearning:soot_covered_plate>, [[<deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>],[<quark:biotite>, <quark:biotite>, <quark:biotite>], [<deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_redstone>]]);
 recipes.addShaped(<deepmoblearning:simulation_chamber>, [[<industrialforegoing:plastic>, <industrialforegoing:plastic>, <industrialforegoing:plastic>],[<thaumcraft:nitor_white>, <minecraft:nether_star>, <thaumcraft:nitor_white>], [<enderio:item_alloy_ingot:6>, <enderio:item_alloy_ingot:6>, <enderio:item_alloy_ingot:6>]]);
 
 // #ICBM
@@ -144,7 +144,7 @@ mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
 recipes.remove(<mysticalagriculture:master_infusion_crystal>);
 recipes.remove(<mysticalagriculture:infusion_crystal>);
 recipes.addShaped(<mysticalagriculture:master_infusion_crystal>, [[<mysticalagriculture:crafting:4>, <techreborn:plates:36>, <mysticalagriculture:crafting:4>],[<techreborn:plates:36>, <ebwizardry:grand_crystal>, <techreborn:plates:36>], [<mysticalagriculture:crafting:4>, <techreborn:plates:36>, <mysticalagriculture:crafting:4>]]);
-recipes.addShaped(<mysticalagriculture:infusion_crystal>, [[<mysticalagriculture:crafting>, <jaopca:item_plateosmium>, <mysticalagriculture:crafting>],[<jaopca:item_plateosmium>, <actuallyadditions:item_crystal_empowered:2>, <jaopca:item_plateosmium>], [<mysticalagriculture:crafting>, <jaopca:item_plateosmium>, <mysticalagriculture:crafting>]]);
+recipes.addShaped(<mysticalagriculture:infusion_crystal>, [[<mysticalagriculture:crafting>, <mekanism:crystal:2>, <mysticalagriculture:crafting>],[<mekanism:crystal:2>, <actuallyadditions:item_crystal_empowered:2>, <mekanism:crystal:2>], [<mysticalagriculture:crafting>, <mekanism:crystal:2>, <mysticalagriculture:crafting>]]);
 
 // Skill Book
 recipes.remove(<inventorypets:illuminati_pet>);

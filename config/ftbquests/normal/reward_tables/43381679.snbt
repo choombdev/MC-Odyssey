@@ -343,11 +343,6 @@
 		weight: 56
 	},
 	{
-		item: "customsignposts:oak_signpost",
-		count: 6,
-		weight: 80
-	},
-	{
 		item: "cyclicmagic:fluid_placer",
 		weight: 35
 	},
@@ -607,23 +602,9 @@
 		weight: 70
 	},
 	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanshields:shield_tower_tin",
-			Count: 1b
-		},
-		weight: 32
-	},
-	{
 		item: "wings:fairy_dust",
 		count: 8,
 		weight: 43
-	},
-	{
-		item: "tcomplement:materials 1 6",
-		weight: 65
 	},
 	{
 		item: {
@@ -797,17 +778,6 @@
 		item: "solarflux:mirror",
 		count: 32,
 		weight: 40
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "roots:component_pouch",
-			tag: {},
-			Count: 1b
-		},
-		weight: 60
 	},
 	{
 		item: "deepmoblearning:glitch_infused_ingot"

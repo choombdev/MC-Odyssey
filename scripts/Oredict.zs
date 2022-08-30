@@ -1,6 +1,6 @@
 import crafttweaker.oredict.IOreDictEntry;
 
-# This script was created by Choomb/YahiaTGF for MC Odyssey, using it in your own modpack is not allowed without permission.
+# This script was created by choombdev for MC Odyssey, using it in your own modpack is not allowed without permission.,
 
 print("Started Oredict.zs");
 
@@ -26,6 +26,10 @@ recipes.addShaped(<minecraft:porkchop> * 4, [[null, <minecraft:dirt>, null],[<mi
 
 // Turning Ore Wood into Wood
 recipes.addShaped(<minecraft:planks> * 2, [[null, null, null],[<minecraft:planks>, <ore:plankWood>, null], [null, null, null]]);
+
+// Mystical World
+<ore:ingotCopper>.add(<mysticalworld:copper_ingot>);
+<ore:ingotSilver>.add(<mysticalworld:silver_ingot>);
 
 // Dragon Scale
 val dragonscales = <ore:scaleDragon>;

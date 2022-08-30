@@ -36,7 +36,8 @@
 				DeliveryY: 56,
 				State: 3,
 				DeliveryZ: 1455
-			}
+			},
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
